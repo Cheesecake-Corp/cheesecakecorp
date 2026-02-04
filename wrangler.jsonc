@@ -1,33 +1,3 @@
 {
-  // Your Cloudflare Account ID (replace with the value from your Cloudflare dashboard)
-  "account_id": "8d822fd1e8a687f68c7b48d3db3fad0d",
-
-  // The Pages project name (replace with the project name you choose in Pages)
-  // This is the string you pass to `wrangler pages publish --project-name=...`
-  "project_name": "cheesecakecorp",
-
-  // Compatibility date for Workers (use today's date or a date that matches your runtime expectations)
-  "compatibility_date": "2026-02-04",
-
-  // Build step — Wrangler will run this when publishing if you call `wrangler pages publish` without prebuilding
-  "build": {
-    "command": "npm run build",
-    "cwd": "."
-  },
-
-  // Where the static build output lives (Vite default is `dist`)
-  "site": {
-    "bucket": "./dist"
-  },
-
-  // Optional: directory where Pages Functions live (if you add serverless endpoints)
-  // If you don't use Functions, you can remove this block.
-  "functions": {
-    "directory": "./functions"
-  },
-
-  // Non-secret publish-time variables (for secrets, use `wrangler secret put` or Pages UI)
-  "vars": {
-    "PUBLIC_EXAMPLE": "hello"
-  }
+  "pages_build_output_dir": "./build"
 }
