@@ -1,5 +1,10 @@
 # cheesecakecorp
 
+## Stuff that can be added to vitepress
+https://vitepress.dev/guide/markdown#markdown-extensions
+
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
