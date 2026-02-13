@@ -4,11 +4,12 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Cheesecake Corp MD DB",
   description: "Database of Cheesecake Corp's MDs",
+  base: "/docs/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Home', link: 'index' },
+      { text: 'Examples', link: 'sample' }
     ],
 
     sidebar: [
