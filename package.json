@@ -5,12 +5,17 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "run-p type-check \"build-only {@}\" --",
+    "build": "run-p type-check build-only docs:build && shx mkdir -p dist/docs && shx cp -r src/markdown/.vitepress/dist/* dist/docs/",
     "preview": "vite preview",
     "build-only": "vite build",
-    "type-check": "vue-tsc --build"
+    "type-check": "vue-tsc --build",
+    "docs:dev": "vitepress dev src/markdown",
+    "docs:build": "vitepress build src/markdown",
+    "docs:preview": "vitepress preview src/markdown"
   },
   "dependencies": {
+    "JSON": "^1.0.0",
+    "react-markdown": "^10.1.0",
     "vue": "^3.5.27"
   },
   "devDependencies": {
@@ -23,6 +28,7 @@
     "typescript": "~5.9.3",
     "vite": "^7.3.1",
     "vite-plugin-vue-devtools": "^8.0.5",
+    "vitepress": "^1.6.4",
     "vue-tsc": "^3.2.4"
   },
   "engines": {
