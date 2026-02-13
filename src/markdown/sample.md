@@ -22,3 +22,5 @@ export default config
 ```
 
 :::
+
+Default Theme Config | VitePress https://share.google/PUQ5z9nrFN3nhZLLj
