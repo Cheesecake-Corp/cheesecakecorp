@@ -3,7 +3,7 @@
 - umělecká, odborná, administrativní
 - umělecká
   - ústně lidová slovesnost
-  - umělá dála - napsaná autorem
+  - umělá díla - napsaná autorem
 
 ## Vědy o literatuře
 
@@ -24,7 +24,7 @@
 
 ## Termíny
 
-- poesie - psáno veršem
+- poezie - psáno veršem
 - próza - souvislý text
 - elipsa - neúplná věta
 - legenda - středověká skladba obsahující vypravování o životě světců
