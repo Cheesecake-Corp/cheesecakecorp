@@ -13,15 +13,16 @@ export default defineConfig({
 
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },{text:'Sample',link:'/sample'}
+    sidebar: {
+      
+        '/czech/': [
+          { text: 'Čeština', 
+            items: [
+              { text: 'Literatura', link: '/czech/literatura' }]
+          }
         ]
-      }
-    ],
+      
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
