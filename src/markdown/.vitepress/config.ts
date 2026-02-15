@@ -18,18 +18,22 @@ export default defineConfig({
         '/czech/': [
           { text: 'Čeština', 
             items: [
-              { text: 'Literatura', link: '/czech/literatura' }]
+              { text: 'Literatura', link: '/czech/literatura' },
+              { text: 'Starověk', link: '/czech/starovek' }
+            ]
           }
         ]
       
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Cheesecake-Corp/cheesecakecorp' }
     ]
   },
   markdown:{
     math: true,
-    toc: true
+    toc: {
+      level: [2, 3]
+    }
   }
 })
