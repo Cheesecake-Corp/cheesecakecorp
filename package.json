@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "JSON": "^1.0.0",
-    "pnpm": "^10.29.3",
     "react-markdown": "^10.1.0",
     "vue": "^3.5.27"
   },
