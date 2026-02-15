@@ -9,6 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: 'index' },
+      { text: 'Čeština', link: '/czech/literatura' },
       { text: 'Examples', link: 'sample' },
 {
         text: 'Dropdown Menu',
