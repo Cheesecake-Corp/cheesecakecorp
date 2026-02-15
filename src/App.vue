@@ -9,6 +9,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
     <div class="wrapper">
       <HelloWorld msg="Cheesecakecorp is up!" />
+      <a href="/docs">Docs</a>
     </div>
   </header>
 
@@ -43,3 +44,4 @@ header {
   }
 }
 </style>
+
