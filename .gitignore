@@ -19,3 +19,5 @@ types/v3-generated.d.ts
 .vitepress/cache
 src/markdown/.vitepress/dist
 src/markdown/.vitepress/cache
+docs
+/docs

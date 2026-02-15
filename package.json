@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "JSON": "^1.0.0",
+    "pnpm": "^10.29.3",
     "react-markdown": "^10.1.0",
     "vue": "^3.5.27"
   },
@@ -31,7 +32,7 @@
     "typescript": "~5.9.3",
     "vite": "^7.3.1",
     "vite-plugin-vue-devtools": "^8.0.5",
-    "vitepress": "^1.6.4",
+    "vitepress": "^2.0.0-alpha.16",
     "vue-tsc": "^3.2.4"
   },
   "engines": {

@@ -10,18 +10,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: 'index' },
       { text: 'Čeština', link: '/czech/literatura' },
-      { text: 'Examples', link: 'sample' },
-{
-        text: 'Dropdown Menu',
-        items: [
-          {
-            // You may also omit the title.
-            items: [
-              { text: 'Section A Item A', link: '...' },
-              { text: 'Section B Item B', link: '...' }
-            ]
-          }
-        ]}
+
     ],
 
     sidebar: [
