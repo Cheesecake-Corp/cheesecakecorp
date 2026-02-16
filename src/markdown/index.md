@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Cheesecake Corp MD DB"
-  text: "Database of Cheesecake Corp's MDs"
-  tagline: My great project tagline
+  text: "All of Cheesecake Corp"
+  tagline: Dubínka vegana fi
   actions:
     - theme: brand
       text: Čeština
