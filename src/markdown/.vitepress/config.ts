@@ -19,10 +19,11 @@ export default defineConfig({
           { text: 'Čeština', 
             items: [
               { text: 'Literatura obecně', link: '/czech/literatura' },
-              { text: 'Neevropské literární památky (starověk)', link: '/czech/starovek/starovek', '/czech/starovek/': [
-                { text: 'Mezopotámie', link: '/czech/starovek/mezopotamie' },
-                { text: 'Sumerská literatura', link: '/czech/starovek/sumerska_literatura' },
-                { text: 'Egypt', link: '/czech/starovek/egypt' },
+              { text: 'Neevropské literární památky (starověk)', link: '/czech/starovek/starovek', 
+                items: [
+                  { text: 'Mezopotámie', link: '/czech/starovek/mezopotamie' },
+                  { text: 'Sumerská literatura', link: '/czech/starovek/sumerska_literatura' },
+                  { text: 'Egypt', link: '/czech/starovek/egypt' },
               ]
               },
               { text: 'Řecká literatura', link: '/czech/recko' },

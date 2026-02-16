@@ -28,3 +28,4 @@
 - próza - souvislý text
 - elipsa - neúplná věta
 - legenda - středověká skladba obsahující vypravování o životě světců
+- epos - rozsáhlá veršovaná skladba
