@@ -4,10 +4,16 @@ import Giscus from '@giscus/vue'
 
 export default {
   extends: DefaultTheme,
+  setup() {
+    const route = useRoute()
+    return { route }
+  },
   Layout() {
+    const route = useRoute()
     return h(DefaultTheme.Layout, null, {
       'doc-after': () =>
         h(Giscus, {
+          key : route.path,
           repo: 'Cheesecake-Corp/cheesecakecorp',
           repoId: 'R_kgDORIZD9g',
           category: 'General',
