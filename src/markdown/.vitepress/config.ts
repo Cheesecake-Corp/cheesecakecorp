@@ -19,7 +19,13 @@ export default defineConfig({
           { text: 'Čeština', 
             items: [
               { text: 'Literatura obecně', link: '/czech/literatura' },
-              { text: 'Starověk', link: '/czech/starovek' }
+              { text: 'Starověk (neevropské)', items: [
+                { text: 'Mezopotámie', link: '/czech/mezopotamie' },
+              ]
+              },
+              { text: 'Řecká literatura', link: '/czech/recko' },
+              { text: 'Římská literatura', link: '/czech/rim' },
+              { text: '', link: '/czech/starovek' }
             ]
           }
         ]
