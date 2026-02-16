@@ -11,7 +11,7 @@ export default {
           repo: 'Cheesecake-Corp/cheesecakecorp',
           repoId: 'R_kgDORIZD9g',
           category: 'General',
-          categoryId: '47843435',
+          categoryId: 'DIC_kwDORIZD9s4C2ghr',
           mapping: 'pathname',
           inputPosition: 'bottom',
           theme: 'preferred_color_scheme',
