@@ -24,6 +24,9 @@ export default defineConfig({
                   { text: 'Mezopotámie', link: '/czech/starovek/mezopotamie' },
                   { text: 'Sumerská literatura', link: '/czech/starovek/sumerska_literatura' },
                   { text: 'Egypt', link: '/czech/starovek/egypt' },
+                  { text: 'Indie', link: '/czech/starovek/indie' },
+                  { text: 'Čína', link: '/czech/starovek/cina' },
+                  { text: 'Hebrejská literatura', link: '/czech/starovek/hebrejska_literatura' },
               ]
               },
               { text: 'Řecká literatura', link: '/czech/recko' },
