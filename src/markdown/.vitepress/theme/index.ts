@@ -1,5 +1,6 @@
 import DefaultTheme from 'vitepress/theme'
-import { h } from 'vue'
+import { h, watch } from 'vue'
+import { useRoute } from 'vitepress'
 import Giscus from '@giscus/vue'
 
 export default {
