@@ -10,8 +10,8 @@ export default {
         h(Giscus, {
           repo: 'Cheesecake-Corp/cheesecakecorp',
           repoId: 'R_kgDORIZD9g',
-          category: 'Announcements',
-          categoryId: 'CATEGORY_ID',
+          category: 'General',
+          categoryId: '47843435',
           mapping: 'pathname',
           inputPosition: 'bottom',
           theme: 'preferred_color_scheme',
