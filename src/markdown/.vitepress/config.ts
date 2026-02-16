@@ -18,7 +18,7 @@ export default defineConfig({
         '/czech/': [
           { text: 'Čeština', 
             items: [
-              { text: 'Literatura', link: '/czech/literatura' },
+              { text: 'Literatura obecně', link: '/czech/literatura' },
               { text: 'Starověk', link: '/czech/starovek' }
             ]
           }
