@@ -20,7 +20,7 @@ export default defineConfig({
           { text: 'Čeština', 
             items: [
               { text: 'Literatura obecně', link: '/czech/literatura' },
-              { text: 'Neevropské literární památky (starověk)', link: '/czech/starovek' },
+              { text: 'Neevropské literární památky (starověk)', link: '/czech/starovek/starovek' },
               { text: 'Řecká literatura', link: '/czech/recko' },
               { text: 'Římská literatura', link: '/czech/rim' },
             ]
@@ -28,8 +28,8 @@ export default defineConfig({
         ],
         '/czech/starovek/': [
           { 
-            text: '<- Starověk',
-            link: '/czech/starovek'
+            text: '<- Literatura',
+            link: '/czech/literatura'
           },
           {
             text: 'Starověk',
