@@ -34,6 +34,17 @@ export default defineConfig({
               { text: '', link: '/czech/starovek' }
             ]
           }
+        ],
+        '/physics/': [
+          {
+            text: 'Magnetické pole',
+            items: [
+              {
+                text: 'Nestacionární',
+                link: '/physics/magnetic_field/nonstationary/magnetic_induction'
+              }
+            ]
+          }
         ]
       
     },
