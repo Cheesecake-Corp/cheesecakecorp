@@ -12,8 +12,7 @@ vzniká:
 - vodičem s časově proměnným el. proudem $I=I(t)$ - střídavý proud
 - pohybem vodiče s elektrickým proudem stálým nebo časově proměnným
 
-Nestacionární magnetické pole je příčinnou vzniku indukovaného elektrického pole a tento jev se nazývá **ELEKTROMAGNETICKÁ INDUKCE**
-Na koncích vodiče vzniká indukované elektrické napětí $U_i$ a v uzavřeném obvodu teče indukovaný proud $I_i$.
+Nestacionární magnetické pole je příčinnou vzniku indukovaného elektrického pole a tento jev se nazývá **ELEKTROMAGNETICKÁ INDUKCE**. Na koncích vodiče vzniká indukované elektrické napětí $U_i$ a v uzavřeném obvodu teče indukovaný proud $I_i$.
 Například:
 
 - magnet pohybující se uvnitř cívky
