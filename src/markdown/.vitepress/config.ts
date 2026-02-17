@@ -46,6 +46,12 @@ export default defineConfig({
               }
             ]
           }
+        ],
+        '/physics/magnetic_field/nonstationary/': [
+          {
+            text: 'Magnetická indukce',
+            link: '/physics/magnetic_field/nonstationary/magnetic_induction'
+          }
         ]
       
     },
