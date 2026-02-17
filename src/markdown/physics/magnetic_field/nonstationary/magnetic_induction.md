@@ -1,6 +1,7 @@
 # Elektromagnetická indukce
 
 Stacionarní mg. pole: $\vec{B}$ se v daném místě mg. pole nemění s časem
+
 Stacionární mg. pole je například v okolí: vodiče s proudem
 
 **Nestacionární mg. pole** -> el. proud (nestacionární)
