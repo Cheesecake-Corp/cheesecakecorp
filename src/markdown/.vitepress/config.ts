@@ -32,7 +32,7 @@ export default defineConfig({
             link: '/czech/literatura'
           },
           {
-            text: 'Starověk',
+            text: 'Starověk',link: '/czech/starovek/starovek',
             items: [
               { text: 'Mezopotámie', link: '/czech/starovek/mezopotamie' },
               { text: 'Sumerská literatura', link: '/czech/starovek/sumerska_literatura' },
