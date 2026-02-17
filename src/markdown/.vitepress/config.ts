@@ -20,23 +20,34 @@ export default defineConfig({
           { text: 'Čeština', 
             items: [
               { text: 'Literatura obecně', link: '/czech/literatura' },
-              { text: 'Neevropské literární památky (starověk)', link: '/czech/starovek/starovek', 
-                items: [
-                  { text: 'Mezopotámie', link: '/czech/starovek/mezopotamie' },
-                  { text: 'Sumerská literatura', link: '/czech/starovek/sumerska_literatura' },
-                  { text: 'Egypt', link: '/czech/starovek/egypt' },
-                  { text: 'Indie', link: '/czech/starovek/indie' },
-                  { text: 'Čína', link: '/czech/starovek/cina' },
-                  { text: 'Hebrejská literatura', link: '/czech/starovek/hebrejska_literatura' },
-              ]
-              },
+              { text: 'Neevropské literární památky (starověk)', link: '/czech/starovek/starovek' },
               { text: 'Řecká literatura', link: '/czech/recko' },
               { text: 'Římská literatura', link: '/czech/rim' },
-              { text: '', link: '/czech/starovek' }
+            ]
+          }
+        ],
+        '/czech/starovek/': [
+          { 
+            text: '<- Starověk',
+            link: '/czech/starovek/starovek'
+          },
+          {
+            text: 'Starověk',
+            items: [
+              { text: 'Mezopotámie', link: '/czech/starovek/mezopotamie' },
+              { text: 'Sumerská literatura', link: '/czech/starovek/sumerska_literatura' },
+              { text: 'Egypt', link: '/czech/starovek/egypt' },
+              { text: 'Indie', link: '/czech/starovek/indie' },
+              { text: 'Čína', link: '/czech/starovek/cina' },
+              { text: 'Hebrejská literatura', link: '/czech/starovek/hebrejska_literatura' },
             ]
           }
         ],
         '/physics/': [
+          {
+            text: '<- Fyzika',
+            link: '/physics/physics',
+          },
           {
             text: 'Magnetické pole',
             items: [
