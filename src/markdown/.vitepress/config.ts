@@ -10,6 +10,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: 'index' },
       { text: 'Čeština', link: '/czech/literatura' },
+      { text: 'Fyzika', link: '/physics/physics' },
 
     ],
 
