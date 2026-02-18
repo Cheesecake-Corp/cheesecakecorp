@@ -11,11 +11,7 @@ export default defineConfig({
       { text: 'Home', link: 'index' },
       { text: 'Čeština', link: '/czech/literatura' },
       { text: 'Fyzika', link: '/physics/physics' },
-
-    ],
-
-    sidebar: {
-      
+    ],      
         '/czech/': [
           { text: 'Čeština', 
             items: [
