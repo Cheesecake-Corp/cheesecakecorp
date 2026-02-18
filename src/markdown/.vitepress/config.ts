@@ -31,6 +31,7 @@ export default defineConfig({
             text: '<- Literatura',
             link: '/czech/literatura'
           },
+          { text: 'Neevropské literární památky (starověk)', link: '/czech/starovek/starovek' },
           { text: 'Mezopotámie', link: '/czech/starovek/mezopotamie' },
           { text: 'Sumerská literatura', link: '/czech/starovek/sumerska_literatura' },
           { text: 'Egypt', link: '/czech/starovek/egypt' },
