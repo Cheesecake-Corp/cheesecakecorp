@@ -31,17 +31,13 @@ export default defineConfig({
             text: '<- Literatura',
             link: '/czech/literatura'
           },
-          {
-            text: 'Starověk',link: '/czech/starovek/starovek',
-            items: [
-              { text: 'Mezopotámie', link: '/czech/starovek/mezopotamie' },
-              { text: 'Sumerská literatura', link: '/czech/starovek/sumerska_literatura' },
-              { text: 'Egypt', link: '/czech/starovek/egypt' },
-              { text: 'Indie', link: '/czech/starovek/indie' },
-              { text: 'Čína', link: '/czech/starovek/cina' },
-              { text: 'Hebrejská literatura', link: '/czech/starovek/hebrejska_literatura' },
-            ]
-          }
+          { text: 'Mezopotámie', link: '/czech/starovek/mezopotamie' },
+          { text: 'Sumerská literatura', link: '/czech/starovek/sumerska_literatura' },
+          { text: 'Egypt', link: '/czech/starovek/egypt' },
+          { text: 'Indie', link: '/czech/starovek/indie' },
+          { text: 'Čína', link: '/czech/starovek/cina' },
+          { text: 'Hebrejská literatura', link: '/czech/starovek/hebrejska_literatura' },
+            
         ],
         '/physics/': [
           {
