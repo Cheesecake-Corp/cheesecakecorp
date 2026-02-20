@@ -32,7 +32,12 @@ export default defineConfig({
           { text: 'Indie', link: '/czech/starovek/indie' },
           { text: 'Čína', link: '/czech/starovek/cina' },
           { text: 'Hebrejská literatura', link: '/czech/starovek/hebrejska_literatura' },
-          { text: 'Antická literatura', link: '/czech/starovek/anticka_literatura' },
+          { text: 'Antická literatura', link: '/czech/starovek/anticka_literatura', 
+            items: [
+              { text: 'Řecká literatura', link: '/czech/starovek/recko/recko' },
+              { text: 'Římská literatura', link: '/czech/starovek/rim/rim' }
+            ] 
+          },
             
         ],
         '/physics/': [
@@ -57,7 +62,8 @@ export default defineConfig({
           }
         ],
         '/czech/starovek/rim': [
-          
+            {text: '<- Antická literatura', link: '/czech/starovek/anticka_literatura'},
+            {text: 'Římská literatura', link: '/czech/starovek/rim'}
         ],
         'czech/starovek/recko': [
 
