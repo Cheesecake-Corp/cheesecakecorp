@@ -17,8 +17,6 @@ export default defineConfig({
             items: [
               { text: 'Literatura obecně', link: '/czech/literatura' },
               { text: 'Neevropské literární památky (starověk)', link: '/czech/starovek/starovek' },
-              { text: 'Řecká literatura', link: '/czech/recko' },
-              { text: 'Římská literatura', link: '/czech/rim' },
             ]
           }
         ],
@@ -34,6 +32,7 @@ export default defineConfig({
           { text: 'Indie', link: '/czech/starovek/indie' },
           { text: 'Čína', link: '/czech/starovek/cina' },
           { text: 'Hebrejská literatura', link: '/czech/starovek/hebrejska_literatura' },
+          { text: 'Antická literatura', link: '/czech/starovek/anticka_literatura' },
             
         ],
         '/physics/': [
@@ -56,6 +55,12 @@ export default defineConfig({
             text: 'Magnetická indukce',
             link: '/physics/magnetic_field/nonstationary/magnetic_induction'
           }
+        ],
+        '/czech/starovek/rim': [
+          
+        ],
+        'czech/starovek/recko': [
+
         ]
       
     },
