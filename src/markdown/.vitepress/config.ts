@@ -62,11 +62,11 @@ export default defineConfig({
             link: '/physics/magnetic_field/nonstationary/magnetic_induction'
           }
         ],
-        '/czech/starovek/rim': [
+        '/czech/starovek/rim/': [
           {text: '<- Antická literatura', link: '/czech/starovek/anticka_literatura'},
           {text: 'Římská literatura', link: '/czech/starovek/rim/rim'}
         ],
-        'czech/starovek/recko': [
+        'czech/starovek/recko/': [
           {text: '<- Antická literatura', link: '/czech/starovek/anticka_literatura'},
           {text: 'Řecká literatura', link: '/czech/starovek/recko/recko'}
         ],
