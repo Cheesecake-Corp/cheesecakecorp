@@ -11,7 +11,8 @@ export default defineConfig({
       { text: 'Home', link: 'index' },
       { text: 'Čeština', link: '/czech/literatura' },
       { text: 'Fyzika', link: '/physics/physics' },
-    ],      
+    ],
+    sidebar: {  
         '/czech/': [
           { text: 'Čeština', 
             items: [
@@ -68,7 +69,7 @@ export default defineConfig({
         'czech/starovek/recko': [
           {text: '<- Antická literatura', link: '/czech/starovek/anticka_literatura'},
           {text: 'Řecká literatura', link: '/czech/starovek/recko/recko'}
-        ]
+        ],
       
     },
 
@@ -76,7 +77,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/Cheesecake-Corp/cheesecakecorp' }
     ]
   },
-  markdown:{
+  markdown: {
     math: true,
     toc: {
       level: [2, 3]
