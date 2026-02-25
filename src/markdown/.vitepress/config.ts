@@ -11,6 +11,8 @@ export default defineConfig({
       { text: 'Home', link: 'index' },
       { text: 'Čeština', link: '/czech/literatura' },
       { text: 'Fyzika', link: '/physics/physics' },
+      { text: 'Biologie', link: '/biologie/biologie' },
+
     ],
     sidebar: {  
         '/czech/': [
@@ -70,6 +72,16 @@ export default defineConfig({
           {text: '<- Antická literatura', link: '/czech/starovek/anticka_literatura'},
           {text: 'Řecká literatura', link: '/czech/starovek/recko/recko'}
         ],
+        '/biologie/': [
+          {text: 'Vylučovací soustava', link: '/biologie/vylucovaci_soustava/intro'}
+        ],
+        '/biologie/vylucovaci_soustava/': [
+          {text: '<- Biologie', link: '/biologie/biologie'},
+          {text: 'Vylučovací soustava', link: '/biologie/vylucovaci_soustava/intro'},
+          {text: 'Ledviny', link: '/biologie/vylucovaci_soustava/ledviny'},
+          {text: 'Močovod', link: '/biologie/vylucovaci_soustava/mocovod'},
+          {text: 'Močový měchýř', link: '/biologie/vylucovaci_soustava/mocovy_mechyr'},
+        ]
       
     },
 
