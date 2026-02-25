@@ -39,14 +39,11 @@
 - **Glomerulus** - vlásečnicce, klubíčko cca 30 kapilár, jemné póry
   - **glomerulární filtrace** = ultrafiltrace plazmy selektivná filtrace
 - **Bowmanovo pouzdro** - primární moč (150l denně)
-
-**Tubulární resorpce** = zpětné vstřebání vody a dalších látek z primární moči zpět do krve, nejvíce v proximálním tubulu
-**Proximální tubulus** - zpětné 100% vstřebání glukózy a aminokyselin, 67% vody, + ionty ($Na^+$,Cl-, HCO_3), močovina
-
-- bezprahové léky - kreatinin, inulin - nepropustné zpět
-
-**Henleova klička** - zpětné vstřebání vody, zahušťování vody, zahušťování moči
-**Distální tubus** - vstřebávání iontů a vody, reaguje na hormony, vyloučení
+- **Tubulární resorpce** = zpětné vstřebání vody a dalších látek z primární moči zpět do krve, nejvíce v proximálním tubulu
+- **Proximální tubulus** - zpětné 100% vstřebání glukózy a aminokyselin, 67% vody, + ionty ($Na^+$,Cl-, HCO_3), močovina
+  - bezprahové léky - kreatinin, inulin - nepropustné zpět
+- **Henleova klička** - zpětné vstřebání vody, zahušťování vody, zahušťování moči
+- **Distální tubus** - vstřebávání iontů a vody, reaguje na hormony, vyloučení
 
 ###### Definitivní moč
 
