@@ -25,7 +25,7 @@
 #### Stavba nefronu
 
 - Malpighiho tělísko
-  - glomerus
+  - glomerulus
   - Bowmanovo pouzdro/váček
 - proximální kanálek
 - Henleova klička
