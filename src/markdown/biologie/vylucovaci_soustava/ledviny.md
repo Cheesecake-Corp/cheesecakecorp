@@ -32,7 +32,7 @@
 - distální tubulus
 - sběrný kanálek
 
-![Schéma nefronu](https://www.stefajir.cz/files/nefron_schema.png)
+![Schéma nefronu](./image.png)
 
 ##### Stavba malpighiho tělíska
 
