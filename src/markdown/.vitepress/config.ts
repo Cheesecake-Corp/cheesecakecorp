@@ -20,6 +20,12 @@ export default defineConfig({
             items: [
               { text: 'Literatura obecně', link: '/czech/literatura' },
               { text: 'Neevropské literární památky (starověk)', link: '/czech/starovek/starovek' },
+              { text: 'Antická literatura', link: '/czech/starovek/anticka_literatura', 
+                items: [
+                  { text: 'Řecká literatura', link: '/czech/starovek/recko/recko' },
+                  { text: 'Římská literatura', link: '/czech/starovek/rim/rim' }
+                ] 
+              },
             ]
           }
         ],
@@ -35,12 +41,7 @@ export default defineConfig({
           { text: 'Indie', link: '/czech/starovek/indie' },
           { text: 'Čína', link: '/czech/starovek/cina' },
           { text: 'Hebrejská literatura', link: '/czech/starovek/hebrejska_literatura' },
-          { text: 'Antická literatura', link: '/czech/starovek/anticka_literatura', 
-            items: [
-              { text: 'Řecká literatura', link: '/czech/starovek/recko/recko' },
-              { text: 'Římská literatura', link: '/czech/starovek/rim/rim' }
-            ] 
-          },
+          
             
         ],
         '/physics/': [
