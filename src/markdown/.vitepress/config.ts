@@ -65,12 +65,15 @@ export default defineConfig({
           }
         ],
         '/czech/starovek/rim/': [
-          {text: '<- Antická literatura', link: '/czech/starovek/anticka_literatura'},
+          {text: '<-- Antická literatura', link: '/czech/starovek/anticka_literatura'},
+          {text: '<- Řecká literatura', link: '/czech/starovek/recko/recko'},
           {text: 'Římská literatura', link: '/czech/starovek/rim/rim'}
         ],
         '/czech/starovek/recko/': [
           {text: '<- Antická literatura', link: '/czech/starovek/anticka_literatura'},
-          {text: 'Řecká literatura', link: '/czech/starovek/recko/recko'}
+          {text: 'Řecká literatura', link: '/czech/starovek/recko/recko'},
+          {text: 'Archaické období', link: '/czech/starovek/recko/archaicke_obdobi'},
+          {text: '-> Římská literatura', link: '/czech/starovek/rim/rim'},
         ],
         '/biologie/': [
           {text: 'Vylučovací soustava', link: '/biologie/vylucovaci_soustava/intro'}
