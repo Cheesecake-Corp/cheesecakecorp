@@ -11,6 +11,8 @@
 
 ## Stavba
 
+![Ledviny](image.jpeg)
+
 - **Makroskopicky:** kůra, dřeň, pánvička
   - kůra ledviny - glomuruly, zrnitý
   - dřeň ledviny - pyramidy, H. kličky
