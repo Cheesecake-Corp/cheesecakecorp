@@ -96,3 +96,9 @@
 
 - centrum mikce (močení)
   - v bederní míše
+
+## Co lze z moči zjistit?
+
+- onemocnění - cukrovka, záněty
+- těhotenství - přítomnost hormonu choriogonadotropinu
+- doping
