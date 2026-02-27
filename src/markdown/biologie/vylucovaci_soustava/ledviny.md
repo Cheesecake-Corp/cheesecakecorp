@@ -53,3 +53,46 @@
 - vstřebávání v kanálcích 99 % vody z primární moči
 - **obsah:** močovina, vody, NaCl, další soli, barviva, léky, odpadní látky
 - neměla by být přítomna glukóza a proteiny
+
+###### Zdravý glomerulus
+
+**Prochází:**
+
+- voda
+- močovina, kreatinin, kyselina močová
+- ionty $Na^+, K^+, Ca^{2+}, HCO_3^-$
+- glukóza, aminokyseliny
+- vitaminy, hormony, léky navázané v těle na bílkoviny
+
+**Neprochází:**
+
+- krevní buňky - erytrocyty, leukocyty, trombocyty
+- velké proteiny - albumin
+
+## Hormonální regulace tvorby moči
+
+### Antidiuretický hormon
+
+- ADH, vasopresin
+- z hypotalamu (neurohypofýza)
+- zvyšuje zpětné vstřebávání vody z kanálků do krve
+- vyplavuje se při nízkém tlaku, při dehydrataci
+- zastavení tvorby při nadbytku tekutin
+- nedostatek -> žiznivka (diabetes insipidus)
+
+### Natriuretický peptid
+
+- ze srdce (při vyšším napští síní), antagonista aldosteronu -> zvyšuje objem moči
+
+### Aldosteron
+
+- z kůry nadledvin
+- zvyšuje zpětné vstřebávání $Na^+$ z ledvinných kanálků do krve
+- spouští se při vyplavení reninu z ledvin (pokles tlaku, málo $Na^+$)
+
+### Kortizol
+
+## Nervové řízení
+
+- centrum mikce (močení)
+  - v bederní míše
