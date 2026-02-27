@@ -63,6 +63,10 @@ export default defineConfig({
           {
             text: 'Magnetická indukce',
             link: '/physics/magnetic_field/nonstationary/magnetic_induction'
+          },
+          {
+            text: 'Lenzův zákon',
+            link: '/physics/magnetic_field/nonstationary/lenzs_law'
           }
         ],
         '/czech/starovek/rim/': [
