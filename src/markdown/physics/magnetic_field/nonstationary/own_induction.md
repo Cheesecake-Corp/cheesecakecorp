@@ -16,7 +16,7 @@ $$\phi = L \cdot I$$
 
 $[L] = H$ (henry)
 
-$$L = \mu \cdot \frac{N^2 cdot S}{l}$$
+$$L = \mu \cdot \frac{N^2 \cdot S}{l}$$
 N je počet závitů
 
 S je obsah plochy závitů
