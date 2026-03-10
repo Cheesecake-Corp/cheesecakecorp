@@ -17,11 +17,11 @@ $$\phi = L \cdot I$$
 $[L] = H$ (henry)
 
 $$L = \mu \cdot \frac{N^2 \cdot S}{l}$$
-N je počet závitů
+$N$ je počet závitů
 
-S je obsah plochy závitů
+$S$ je obsah plochy závitů
 
-l je délky cívky
+$l$ je délky cívky
 
 $$\mu = \mu(I)$$
 
