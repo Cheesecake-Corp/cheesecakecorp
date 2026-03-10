@@ -6,5 +6,6 @@
 
 - V kroužku je indukovaný proud $I_i = \frac{U_i}{R}$
   
-- Proud jde proti změně $d\Phi$, 
-  $$U_i = -\frac{d\Phi}{dt}$$
+- Proud jde proti změně $d\Phi$,
+  
+$$U_i = -\frac{d\Phi}{dt}$$
