@@ -88,6 +88,7 @@ export default defineConfig({
         {text: 'Ledviny', link: '/biologie/vylucovaci_soustava/ledviny'},
         {text: 'Močovod', link: '/biologie/vylucovaci_soustava/mocovod'},
         {text: 'Močový měchýř', link: '/biologie/vylucovaci_soustava/mocovy_mechyr'},
+        {text: 'Kůže', link: '/biologie/vylucovaci_soustava/kuze'},
       ],
       '/geography/': [
         {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'}
