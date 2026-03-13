@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mistrovské Obrácené Piškvorky</title>
+    <style>
+        :root { --bg: #1a1a2e; --cell: #16213e; --x-color: #e94560; --o-color: #4ecca3; }
+        body { font-family: 'Segoe UI', sans-serif; background: var(--bg); color: white; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; margin: 0; }
+        .controls { margin-bottom: 20px; text-align: center; }
+        select, button { padding: 10px 15px; border-radius: 5px; border: none; cursor: pointer; font-weight: bold; }
+        select { background: #0f3460; color: white; margin-right: 10px; }
+        .board { display: grid; grid-template-columns: repeat(4, 75px); grid-template-rows: repeat(4, 75px); gap: 12px; background: #0f3460; padding: 15px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+        .cell { width: 75px; height: 75px; background: var(--cell); border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 2.5rem; cursor: pointer; transition: 0.2s; }
+        .cell:hover { transform: scale(1.05); background: #533483; }
+        .cell.x { color: var(--x-color); }
+        .cell.o { color: var(--o-color); }
+        #status { font-size: 1.5rem; margin: 20px 0; height: 35px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
+        .btn-reset { background: var(--x-color); color: white; margin-top: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>Obrácené Piškvorky 4x4</h1>
+
+    <div class="controls">
+        <select id="gameMode">
+            <option value="ai">Hráč vs. AI (Chytrá)</option>
+            <option value="pvp">Hráč vs. Hráč</option>
+        </select>
+        <button onclick="resetGame()">Nová hra</button>
+    </div>
+
+    <div id="status">Začíná hráč X</div>
+    <div class="board" id="board"></div>
+
+    <script>
+        const boardElement = document.getElementById('board');
+        const statusElement = document.getElementById('status');
+        const modeSelect = document.getElementById('gameMode');
+        
+        let board = Array(16).fill(null);
+        let currentPlayer = 'X';
+        let gameActive = true;
+
+        const WIN_PATTERNS = [
+            [0,1,2,3], [4,5,6,7], [8,9,10,11], [12,13,14,15],
+            [0,4,8,12], [1,5,9,13], [2,6,10,14], [3,7,11,15],
+            [0,5,10,15], [3,6,9,12]
+        ];
+
+        function createBoard() {
+            boardElement.innerHTML = '';
+            board.forEach((_, i) => {
+                const cell = document.createElement('div');
+                cell.className = 'cell';
+                cell.onclick = () => handleMove(i);
+                boardElement.appendChild(cell);
+            });
+        }
+
+        function handleMove(i) {
+            if (!gameActive || board[i]) return;
+
+            makeMove(i, currentPlayer);
+
+            if (gameActive) {
+                currentPlayer = currentPlayer === 'X' ? 'O' : 'X';
+                statusElement.innerText = `Na řadě je: ${currentPlayer}`;
+
+                if (modeSelect.value === 'ai' && currentPlayer === 'O') {
+                    statusElement.innerText = "AI přemýšlí...";
+                    setTimeout(() => {
+                        const bestMove = getBestMove();
+                        handleMove(bestMove);
+                    }, 400);
+                }
+            }
+        }
+
+        function makeMove(i, player) {
+            board[i] = player;
+            const cells = document.getElementsByClassName('cell');
+            cells[i].innerText = player;
+            cells[i].classList.add(player.toLowerCase());
+            cells[i].style.cursor = 'default';
+
+            if (checkLoss(board, player)) {
+                statusElement.innerText = `Hráč ${player} prohrál!`;
+                statusElement.style.color = 'var(--x-color)';
+                gameActive = false;
+            } else if (!board.includes(null)) {
+                statusElement.innerText = "Remíza!";
+                gameActive = false;
+            }
+        }
+
+        function checkLoss(b, player) {
+            return WIN_PATTERNS.some(p => p.every(idx => b[idx] === player));
+        }
+
+        // --- INTELLIGENT AI (MINIMAX) ---
+        function getBestMove() {
+            let bestScore = -Infinity;
+            let move = -1;
+            
+            // Nejdřív zkusíme, jestli existuje bezpečný tah
+            let available = board.map((v, i) => v === null ? i : null).filter(v => v !== null);
+            
+            for (let i of available) {
+                board[i] = 'O';
+                let score = minimax(board, 0, false, -Infinity, Infinity);
+                board[i] = null;
+                if (score > bestScore) {
+                    bestScore = score;
+                    move = i;
+                }
+            }
+            return move;
+        }
+
+        function minimax(b, depth, isMaximizing, alpha, beta) {
+            // Hodnocení stavu (V obrácených piškvorkách: Pokud prohraje 'O', skóre je špatné)
+            if (checkLoss(b, 'O')) return -100 + depth;
+            if (checkLoss(b, 'X')) return 100 - depth;
+            if (!b.includes(null)) return 0;
+            if (depth > 4) return 0; // Omezení hloubky pro plynulost na mobilu
+
+            if (isMaximizing) {
+                let maxEval = -Infinity;
+                for (let i = 0; i < 16; i++) {
+                    if (b[i] === null) {
+                        b[i] = 'O';
+                        let eval = minimax(b, depth + 1, false, alpha, beta);
+                        b[i] = null;
+                        maxEval = Math.max(maxEval, eval);
+                        alpha = Math.max(alpha, eval);
+                        if (beta <= alpha) break;
+                    }
+                }
+                return maxEval;
+            } else {
+                let minEval = Infinity;
+                for (let i = 0; i < 16; i++) {
+                    if (b[i] === null) {
+                        b[i] = 'X';
+                        let eval = minimax(b, depth + 1, true, alpha, beta);
+                        b[i] = null;
+                        minEval = Math.min(minEval, eval);
+                        beta = Math.min(beta, eval);
+                        if (beta <= alpha) break;
+                    }
+                }
+                return minEval;
+            }
+        }
+
+        function resetGame() {
+            board = Array(16).fill(null);
+            gameActive = true;
+            currentPlayer = 'X';
+            statusElement.innerText = "Začíná hráč X";
+            statusElement.style.color = 'var(--o-color)';
+            createBoard();
+        }
+
+        createBoard();
+    </script>
+</body>
+</html>
