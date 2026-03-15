@@ -68,6 +68,7 @@ export default defineConfig({
         { text: 'Faradayův zákon', link: '/physics/magnetic_field/nonstationary/faraday' },
         { text: 'Lenzův zákon', link: '/physics/magnetic_field/nonstationary/lenzs_law' },
         { text: 'Vlastní indukce', link: '/physics/magnetic_field/nonstationary/own_induction' },
+        { text: 'Přechodný děj a energie magnetického pole cívky', link: '/physics/magnetic_field/nonstationary/transient_response' },
       ],
       '/czech/starovek/rim/': [
         {text: '<-- Antická literatura', link: '/czech/starovek/anticka_literatura'},
