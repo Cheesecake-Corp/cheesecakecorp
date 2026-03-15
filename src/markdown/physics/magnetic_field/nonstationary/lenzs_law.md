@@ -1,6 +1,6 @@
 # Lenzův zákon
 
-:: tip Lenzův zákon
+::: tip Lenzův zákon
 Indukovaný proud v uzavřeném elektrickém obvodu má takový směr, že svým magnetickým polem působí proti změně magnetického indukčního toku, která ho vyvolala.
 :::
 ![Vizualizace Lenzova zákona](image.png)
