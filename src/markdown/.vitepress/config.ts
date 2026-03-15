@@ -65,6 +65,7 @@ export default defineConfig({
           text: 'Magnetická indukce',
           link: '/physics/magnetic_field/nonstationary/magnetic_induction'
         },
+        { text: 'Faradayův zákon', link: '/physics/magnetic_field/nonstationary/faraday' },
         { text: 'Lenzův zákon', link: '/physics/magnetic_field/nonstationary/lenzs_law' },
         { text: 'Vlastní indukce', link: '/physics/magnetic_field/nonstationary/own_induction' },
       ],
