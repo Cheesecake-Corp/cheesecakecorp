@@ -1,7 +1,8 @@
 # Lenzův zákon
 
-- Indukovaný proud v uzavřeném elektrickém obvodu má takový směr, že svým magnetickým polem působí proti změně magnetického indukčního toku, která ho vyvolala.
-  
+:: tip Lenzův zákon
+Indukovaný proud v uzavřeném elektrickém obvodu má takový směr, že svým magnetickým polem působí proti změně magnetického indukčního toku, která ho vyvolala.
+:::
 ![Vizualizace Lenzova zákona](image.png)
 
 - V kroužku je indukovaný proud $I_i = \frac{U_i}{R}$
