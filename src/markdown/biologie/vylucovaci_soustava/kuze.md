@@ -2,7 +2,7 @@
 
 - největší orgán těla
 - zhruba 8 % tělesné hmotnosti
-- $1,8$ $m^2$
+- $1,$$8$ $m^2$
 
 ## Funkce
 
