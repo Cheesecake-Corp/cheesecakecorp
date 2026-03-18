@@ -1,4 +1,4 @@
-# Močový měchýř
+# Močový měchýř (vesica urinaria)
 
 - pružný orgán
 - elastivké vazivo, hladká svalovina (3 vrstvy)
