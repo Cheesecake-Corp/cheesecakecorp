@@ -86,15 +86,18 @@ export default defineConfig({
         {text: '-> Římská literatura', link: '/czech/starovek/rim/rim'},
       ],
       '/biologie/': [
-        {text: 'Vylučovací soustava', link: '/biologie/vylucovaci_soustava/intro'}
+        {text: 'Vylučovací soustava', link: '/biologie/vylucovaci_soustava/intro'},
+        {text: 'Kůže', link: '/biologie/kuze/kuze'},
       ],
       '/biologie/vylucovaci_soustava/': [
         {text: '<- Biologie', link: '/biologie/biologie'},
         {text: 'Vylučovací soustava', link: '/biologie/vylucovaci_soustava/intro'},
         {text: 'Ledviny', link: '/biologie/vylucovaci_soustava/ledviny'},
         {text: 'Močovod', link: '/biologie/vylucovaci_soustava/mocovod'},
-        {text: 'Močový měchýř', link: '/biologie/vylucovaci_soustava/mocovy_mechyr'},
-        {text: 'Kůže', link: '/biologie/vylucovaci_soustava/kuze'},
+        {text: 'Močový měchýř', link: '/biologie/vylucovaci_soustava/mocovy_mechyr'}, 
+      ],
+      '/biologie/kuze/': [
+        {text: 'Kůže', link: '/biologie/kuze/kuze'},
       ],
       '/geography/': [
         {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'}
