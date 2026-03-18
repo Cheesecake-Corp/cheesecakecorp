@@ -78,7 +78,7 @@
 - zvyšuje zpětné vstřebávání vody z kanálků do krve
 - vyplavuje se při nízkém tlaku, při dehydrataci
 - zastavení tvorby při nadbytku tekutin
-- nedostatek -> žiznivka (diabetes insipidus)
+- nedostatek -> žíznivka (diabetes insipidus)
 
 ### Natriuretický peptid
 
