@@ -91,3 +91,5 @@ V chladu - vazokonstrikce kožních vlásečnic a špatné prokrvení končetin 
 #### Úpal
 
 - vzniká nahromaděním tepla v těle při špatné termoregulaci (v prostředí s vysokou teplotou a vlhkostí)
+
+![Schéma hypertermie](image.png)
