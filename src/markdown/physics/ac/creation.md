@@ -11,4 +11,4 @@ $$i(t) = I_m \cdot \sin{(\omega t + \varphi)}$$
 
 Zdroje střídavého napětí jsou zdroje založené na otáčení cívek v mg. poli, které se využívají v energetice.
 
-Střídavé napětí má i svojí frekvenci v energetice $f = 50Hz$
+Střídavé napětí má i svojí frekvenci v energetice $f = 50\,Hz$
