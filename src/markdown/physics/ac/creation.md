@@ -1,7 +1,7 @@
 # Vznik střídavého proudu a napětí
 
 Závit (cívka) se otáčí v homogenním magnetickém poli. Magnetický indukční tok je pak:
-$$ phi = B cdot S cdot cos omega t$$
+$$ \phi = B \cdot S \cdot \cos{(\omega t)}$$
 Platí, že indukované napětí $U_i$ je derivace $phi$ podle času $t$:
 $$U_i = -\frac{d\phi}{dt} = N \cdot B \cdot S \cdot \sin{\omega t}\cdot \omega$$
 Protože jediná proměnná je čas, můžeme $U_m = B \cdot S \cdot \omega$ a dosadit $U_i = U_m \cdot \sin{\omega t}$. Tomuto napětí říkáme střídavé. Obvodem pak prochází střídavý proud, který má harmonický průběh.
