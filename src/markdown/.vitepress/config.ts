@@ -99,6 +99,7 @@ export default defineConfig({
         {text: 'Onemocění jater', link: '/biologie/vylucovaci_soustava/onemocneni_jater'}, 
       ],
       '/biologie/kuze/': [
+        {text: '<- Biologie', link: '/biologie/biologie'},
         {text: 'Kůže', link: '/biologie/kuze/kuze'},
       ],
       '/geography/': [

@@ -20,3 +20,14 @@
 - metabolické děje
 - svalová námaha - podílí se na tvorbě těla až z 90%
 - svalový třes (když klesne teplota těla pod 35,5 °C)
+- netřesová termogeneze - význam hlavně u novorozenců - katabolismus hnědého tuku
+
+## Výdej tepla
+
+- kontrolu tepelných ztrát organismu zajišťují temoizolační vlastnosti jednotlivých tkání
+
+### Tepelná izolace
+
+- **krev** přenáší teplo cévním systémem z jádra na periferii
+- ztrátám tepla se tělo chrání vazokonstrikcí
+- **kůže, podkoží a tuk** - mají třetinovou schopnost vést teplo a před ztrátami tepla organismus chrání
