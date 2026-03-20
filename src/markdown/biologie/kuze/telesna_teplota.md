@@ -79,3 +79,15 @@
 - hypotermie
 
 V chladu - vazokonstrikce kožních vlásečnic a špatné prokrvení končetin -> při dlouhodobém chladu dojde k pasivní vazodilataci, zpomalí se průtok krve v končetinách -> promodrávání prstů a rtů -> omrzliny až smrt
+
+#### Hypertermie
+
+- horečka - obranná reakce na infekci vyvolána pyrogeny = látky, které uvolňují leukocyty při infekci
+
+#### Úžeh
+
+- vyvolán působením intenzivního slunečního záření
+
+#### Úpal
+
+- vzniká nahromaděním tepla v těle při špatné termoregulaci (v prostředí s vysokou teplotou a vlhkostí)
