@@ -74,8 +74,20 @@ export default defineConfig({
         { text: 'Vlastní indukce', link: '/physics/magnetic_field/nonstationary/own_induction' },
         { text: 'Přechodný děj a energie magnetického pole cívky', link: '/physics/magnetic_field/nonstationary/transient_response' },
       ],
+      '/physics/ac/': [
+        {
+          text: '<- Fyzika',
+          link: '/physics/physics',
+        },
+        { text: 'Střídavý proud', link: '/physics/ac/creation.md'},
+        { text: 'Obvody', 
+          items: [
+            { text: 'Obvody AC s rezistorem', link: '/physics/ac/circuit_basics.md'}
+          ]
+        },
+      ],
       '/czech/starovek/rim/': [
-        {text: '<-- Antická literatura', link: '/czech/starovek/anticka_literatura'},
+        {text: '<-- Antická literatra', link: '/czech/starovek/anticka_literatura'},
         {text: '<- Řecká literatura', link: '/czech/starovek/recko/recko'},
         {text: 'Římská literatura', link: '/czech/starovek/rim/rim'}
       ],
