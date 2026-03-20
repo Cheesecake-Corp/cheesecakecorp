@@ -97,6 +97,7 @@ export default defineConfig({
         {text: 'Močový měchýř', link: '/biologie/vylucovaci_soustava/mocovy_mechyr'}, 
         {text: 'Onemocění vylučovací soustavy', link: '/biologie/vylucovaci_soustava/onemocneni_vs'}, 
         {text: 'Onemocění jater', link: '/biologie/vylucovaci_soustava/onemocneni_jater'}, 
+        {text: 'Kůže ->', link: '/biologie/kuze/kuze'}, 
       ],
       '/biologie/kuze/': [
         {text: '<- Biologie', link: '/biologie/biologie'},
