@@ -65,3 +65,10 @@
 - $100$ $ml$ potu/den
 - složení potu - voda, $NaCl$, močovina, kyslina močová, kyselina mléčná
 - aktivace z hypotalamu (část mezimozku) - centrum termoregulace
+
+## Melanom kůže
+
+- nejnebezpečnější forma rakoviny kůže
+- vzniká z pigmenotových buněk
+- primární léčba - chirurgické vyříznutí
+- znaménku se zvětšuje průměr, má nepravidelný okraj, změna barvy
