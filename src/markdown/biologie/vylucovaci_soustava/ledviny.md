@@ -82,7 +82,7 @@
 
 ### Natriuretický peptid
 
-- ze srdce (při vyšším napští síní), antagonista aldosteronu -> zvyšuje objem moči
+- ze srdce (při vyšším napětí síní), antagonista aldosteronu -> zvyšuje objem moči
 
 ### Aldosteron
 
