@@ -78,7 +78,7 @@
 
 - hrozí poškození mozku
 
-< 25 °C
+< 35 °C
 
 - hypotermie
 
