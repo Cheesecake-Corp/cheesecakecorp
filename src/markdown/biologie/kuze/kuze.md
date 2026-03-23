@@ -69,7 +69,7 @@
 ##### Pachové žlázy
 
 - zvláštní potní žlázy - uši, podpaží, třísla
-- aromatické látka -> emoce
+- aromatická látka -> emoce
 
 #### Mléčné žlázy
 
