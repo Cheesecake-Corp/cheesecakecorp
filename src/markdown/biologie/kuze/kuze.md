@@ -38,10 +38,10 @@
 - termoreceptory
   - chlad, teplo
   - Ruffiniho tělíska (teplo)
-  - Krauseovo tělísko (chlad)
+  - Krauseho tělísko (chlad)
 - mechanoreceptory
   - Paciniho tělíska (dotyk, tlak)
-  - Meissnereovo tělísko (lehký dotyk a vibrace $-$ prsty, rty)
+  - Meissnerovo tělísko (lehký dotyk a vibrace $-$ prsty, rty)
 - nociceptory
   - bolest
   - volná nervová zakončení
