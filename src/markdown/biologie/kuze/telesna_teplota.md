@@ -3,9 +3,13 @@
 ## Pojmy
 
 **vazodilatace** - rozšíření cévy
+
 **vazokonstrikce** - stahování cévy
+
 **úžeh** - poškození organismu slunečním zářením na oblast hlavy a krku
+
 **úpal** - poškození organismu teplem
+
 **hypotermie** - podchlazení, teplota pod úrovní potřebnou pro běžný metabolismus a fungování
 
 ## Termoregulace
