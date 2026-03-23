@@ -22,7 +22,7 @@
 ### Tvorba tepla
 
 - metabolické děje
-- svalová námaha - podílí se na tvorbě těla až z 90%
+- svalová námaha - podílí se na tvorbě těla až z 90 %
 - svalový třes (když klesne teplota těla pod 35,5 °C)
 - netřesová termogeneze - význam hlavně u novorozenců - katabolismus hnědého tuku
 
