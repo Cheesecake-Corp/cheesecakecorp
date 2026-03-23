@@ -66,6 +66,26 @@
 - složení potu - voda, $NaCl$, močovina, kyslina močová, kyselina mléčná
 - aktivace z hypotalamu (část mezimozku) - centrum termoregulace
 
+##### Pachové žlázy
+
+- zvláštní potní žlázy - uši, podpaží, třísla
+- aromatické látka -> emoce
+
+#### Mléčné žlázy
+
+- embryonálně u obou pohlaví, další vývoj u dívek
+- mlékovody - prsní bradavka
+- na konci těhotenství a po porodu mléko
+
+### Podkožní vazivo (subcutis)
+
+- síť kolagenních a elastenních vláken
+- vazivové a tukové buňky
+
+## Akné
+
+- zejména v pubertě - větší tvorba mazu
+
 ## Melanom kůže
 
 - nejnebezpečnější forma rakoviny kůže
