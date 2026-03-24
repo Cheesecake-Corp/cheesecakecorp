@@ -12,7 +12,7 @@ Je opačně orientováno než vnější elektrické pole zdroje.
 
 Cívka s $\mu = konst$
 
-$$\phi = L \cdot I$$
+$$\Phi = L \cdot I$$
 
 $[L] = H$ (henry)
 
