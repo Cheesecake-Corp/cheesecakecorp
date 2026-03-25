@@ -100,6 +100,7 @@ export default defineConfig({
       '/biologie/': [
         {text: 'Vylučovací soustava', link: '/biologie/vylucovaci_soustava/intro'},
         {text: 'Kůže', link: '/biologie/kuze/kuze'},
+        {text: 'Endokrinní žlázy', link: '/biologie/endo_zlazy/intro'},
       ],
       '/biologie/vylucovaci_soustava/': [
         {text: '<- Biologie', link: '/biologie/biologie'},
@@ -115,6 +116,10 @@ export default defineConfig({
         {text: '<- Biologie', link: '/biologie/biologie'},
         {text: 'Kůže', link: '/biologie/kuze/kuze'},
         {text: 'Tělesná teplota', link: '/biologie/kuze/telesna_teplota'},
+      ],
+      '/biologie/endo_zlazy/': [
+        {text: '<- Biologie', link: '/biologie/biologie'},
+        {text: 'Endokrinní žlázy', link: '/biologie/endo_zlazy/intro'},
       ],
       '/geography/': [
         {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'}
