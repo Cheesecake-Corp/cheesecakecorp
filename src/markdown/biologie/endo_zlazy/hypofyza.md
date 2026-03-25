@@ -7,7 +7,7 @@
   2. zadní lalok (neurohypofýza)
 - řídící endokrinní žláza - některé její hormony - *glandotropní* - ovlivňují činnost jinách endokrinních žláz
 
-<img src="image.png" width="150px"/>
+<img src="image.png" width="150px" alt="schéma hypothalamu"/> 
 
 ## Adenohypofýza
 
