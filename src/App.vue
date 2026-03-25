@@ -10,7 +10,7 @@ import cookieclicker from './components/cookieclicker.vue'
 
     <div class="wrapper">
       <HelloWorld msg="Cheesecakecorp is up!" />
-      <
+      <cookieclicker/>
       <a href="/docs">Docs</a>
     </div>
   </header>
