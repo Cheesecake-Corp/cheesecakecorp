@@ -1,4 +1,4 @@
-export async function onRequestPost(context) {
+export async function onRequestPost(context: any) {
   const body = await context.request.json()
   const value = body.value || ""
 
@@ -7,7 +7,7 @@ export async function onRequestPost(context) {
   return new Response(JSON.stringify({ success: true }))
 }
 
-export async function onRequestGet(context) {
+export async function onRequestGet(context: any) {
   const value = await context.env.MY_KV.get("savedString")
   return new Response(JSON.stringify({ value }))
 }
