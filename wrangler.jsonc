@@ -3,7 +3,7 @@
   "pages_build_output_dir": "./dist",
   "kv_namespaces": [
     {
-      "binding": "KV",
+      "binding": "MY_KV",
       "id": "30c2729f97644a0dbc73af09eda1cee6",
       
       // Optional: preview_id used when running `wrangler dev` for local dev
