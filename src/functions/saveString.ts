@@ -1,16 +1,26 @@
-// Import required modules for error handling and logging
-import fs from 'fs';
-import path from 'path';
+export async function onRequestPost(context: any) {
+  try {
+    const body = await context.request.json()
+    const value = body.value || ""
 
-// Function to save a string to a specified file
-export function saveString(fileName: string, data: string): void {
-    const filePath = path.join(__dirname, fileName);
-    try {
-        // Write data to the file
-        fs.writeFileSync(filePath, data);
-        console.log(`Data successfully saved to ${filePath}`);
-    } catch (error) {
-        // Log error message for debugging
-        console.error(`Failed to save data to ${filePath}:`, error);
-    }
+    console.log("Saving value:", value)
+    await context.env.MY_KV.put("savedString", value)
+    console.log("Value saved successfully")
+
+    return new Response(JSON.stringify({ success: true }))
+  } catch (error) {
+    console.error("Error saving:", error)
+    return new Response(JSON.stringify({ success: false, error: error.message }), { status: 500 })
+  }
+}
+
+export async function onRequestGet(context: any) {
+  try {
+    const value = await context.env.MY_KV.get("savedString")
+    console.log("Retrieved value:", value)
+    return new Response(JSON.stringify({ value }))
+  } catch (error) {
+    console.error("Error retrieving:", error)
+    return new Response(JSON.stringify({ error: error.message }), { status: 500 })
+  }
 }
