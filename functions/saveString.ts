@@ -2,6 +2,8 @@ async function onRequestPost(request) {
     try {
         const data = await request.json();
         // Process the data here
+        const value = data.value || "";
+        await MY_KV.put('savedString', value);
         return new Response('Data processed successfully', { status: 200 });
     } catch (error) {
         return new Response('Error processing data: ' + error.message, { status: 500 });
