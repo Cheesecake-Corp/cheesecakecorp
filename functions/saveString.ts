@@ -1,9 +1,21 @@
-// Function to save a string to a file
-
-const fs = require('fs');
-
-function saveString(path, content) {
-    fs.writeFileSync(path, content);
+async function onRequestPost(request) {
+    try {
+        const data = await request.json();
+        // Process the data here
+        return new Response('Data processed successfully', { status: 200 });
+    } catch (error) {
+        return new Response('Error processing data: ' + error.message, { status: 500 });
+    }
 }
 
-module.exports = saveString;
+async function onRequestGet(request) {
+    try {
+        const value = await MY_KV.get('key');
+        if (!value) {
+            return new Response('Value not found', { status: 404 });
+        }
+        return new Response(value, { status: 200 });
+    } catch (error) {
+        return new Response('Error retrieving value: ' + error.message, { status: 500 });
+    }
+}
