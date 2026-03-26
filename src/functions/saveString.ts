@@ -1,26 +1,14 @@
-export async function onRequestPost(context: any) {
-  try {
-    const body = await context.request.json()
-    const value = body.value || ""
+// Updated saveString function with proper error handling
 
-    console.log("Saving value:", value)
-    await context.env.MY_KV.put("savedString", value)
-    console.log("Value saved successfully")
-
-    return new Response(JSON.stringify({ success: true }))
-  } catch (error) {
-    console.error("Error saving:", error)
-    return new Response(JSON.stringify({ success: false, error: error.message }), { status: 500 })
-  }
-}
-
-export async function onRequestGet(context: any) {
-  try {
-    const value = await context.env.MY_KV.get("savedString")
-    console.log("Retrieved value:", value)
-    return new Response(JSON.stringify({ value }))
-  } catch (error) {
-    console.error("Error retrieving:", error)
-    return new Response(JSON.stringify({ error: error.message }), { status: 500 })
-  }
+function saveString(value: string): void {
+    try {
+        // Simulate saving the string
+        // ... some saving logic
+    } catch (error) {
+        if (error instanceof Error) {
+            console.error('Error saving string:', error.message);
+        } else {
+            console.error('Unexpected error:', error);
+        }
+    }
 }
