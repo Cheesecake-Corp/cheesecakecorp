@@ -82,7 +82,8 @@ export default defineConfig({
         { text: 'Střídavý proud', link: '/physics/ac/creation.md'},
         { text: 'Obvody', 
           items: [
-            { text: 'Obvody AC s rezistorem', link: '/physics/ac/circuits/circuit_basics.md'}
+            { text: 'Obvody AC s rezistorem', link: '/physics/ac/circuits/circuit_basics'},
+            { text: 'Obvody AC s indukčností a kapacitou', link: '/physics/ac/circuits/circuit_L_and_C'},
           ]
         },
       ],
