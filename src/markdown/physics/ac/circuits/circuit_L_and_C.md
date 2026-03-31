@@ -2,12 +2,12 @@
 
 ## Obvody s cívkou
 
-![obvod s civkou](image.png)
+![obvod s civkou](image-8.png)
 
 $$i(t) = I_m \cdot \sin{\omega t}$$
 $$u(t) = U_m \cdot \sin{(\omega t + \frac{\pi}{2})} = U_m \cdot \cos{\omega t}$$
 
-![graf civka](image-1.png)
+![graf civka](image-7.png)
 
 - Proud se zpožďuje v důsledku vlastní indukce cívky o $\frac{1}{4}T$
 
