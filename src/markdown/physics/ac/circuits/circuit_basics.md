@@ -3,12 +3,12 @@
 1. Jednoduché - obsahují 1 prvek - rezistor, indukčnost (cívka), kapacita (kondenzátor)
 2. Složené - obsahují více prvků: zkratka RLC
 
-![Graph1](./image.png)
+![Obvod](image.png)
 
 $$i(t) = I_m \cdot \sin{\omega t}$$
 $$I_m = \frac{U_m}{R} \Rightarrow R = \frac{U_m}{I_m}$$
 
-![Graph2](./image-1.png)
+![Graaaffffff](image-1.png)
 
 <center>amplituda nezávisí na frekvenci obvodu</center>
 <br/>
