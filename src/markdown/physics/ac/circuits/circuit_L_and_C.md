@@ -11,20 +11,20 @@ $$u(t) = U_m \cdot \sin{(\omega t + \frac{\pi}{2})} = U_m \cdot \cos{\omega t}$$
 
 - Proud se zpožďuje v důsledku vlastní indukce cívky o $\frac{1}{4}T$
 
-:: tip Induktance
+::: tip Induktance
 Zavedeme veličinu: 
 $X_L = \frac{U}{I} = \frac{U_m}{I_m}$ odpovídající odporu
 
 $[X_L] = \Omega$
-::
+:::
 
 - induktance $\rightarrow$ závisí na frekvenci $f$ a indukčnosti cívky $L$
 
 $$X_L = \omega \cdot L = 2 \pi f \cdot L$$
 
-:: details
+::: details
 Někdy se $R = X_R$ - resistance
-::
+:::
 
 ![fázor cívky](image-4.png)
 
@@ -41,13 +41,13 @@ $$u(t) = U_m \cdot \sin{(\omega t - \frac{\pi}{2})} = -U_m \cdot \cos{\omega t}$
 
 - Napětí se zpožďuje za proudem o $\frac{1}{4}T$ (nabití desek a vytvoření el. pole kapacitoru)
 
-:: tip Kapacitance
+::: tip Kapacitance
 Zavedeme veličinu: 
 $X_C = \frac{U}{I} = \frac{U_m}{I_m}$ odpovídající odporu
 
 $[X_C] = \Omega$
 $$X_C = \frac{1}{\omega \cdot C} = \frac{1}{2 \pi f \cdot C}$$
-::
+:::
 
 ![fázor kapacitoru](image-5.png)
 
