@@ -44,4 +44,4 @@ $$U = \frac{U_m}{\sqrt{2}}$$
 
 $$P = U \cdot I$$
 
-Efektivní hodnoty střídavého proudu a napětí odpovídají hodnotám stejnostměrného proudu a napětí, při nichž je v obvodu s daným střídavým proudem stejný výkon jako v obvodu DC proudu
+Efektivní hodnoty střídavého proudu a napětí odpovídají hodnotám stejnostměrného proudu a napětí, při nichž je v obvodu s daným střídavým proudem stejný výkon jako v obvodu DC.
