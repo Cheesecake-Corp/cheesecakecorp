@@ -22,6 +22,10 @@ $$u(t) = U_m \cdot \sin{\omega t}$$
 
 <iframe src="https://www.desmos.com/calculator/gkklpfmqu1?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
+$P$ - červená
+$I$ - zelená
+$P_m$ - fialová
+
 $$P=U \cdot I$$
 $$P=u(t)\cdot i(t)$$
 $$P=R\cdot i^2(t)$$
