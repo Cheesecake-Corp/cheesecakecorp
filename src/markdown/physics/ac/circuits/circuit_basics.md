@@ -23,6 +23,7 @@ $$u(t) = U_m \cdot \sin{\omega t}$$
 <iframe src="https://www.desmos.com/calculator/gkklpfmqu1?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 $R = 5 \, \Omega$, $I_m = 750 \, mA$, $\omega = \pi$
+
 $P$ - červená
 $I$ - zelená
 $P_m$ - fialová
