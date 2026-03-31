@@ -7,7 +7,7 @@
 $$i(t) = I_m \cdot \sin{\omega t}$$
 $$u(t) = U_m \cdot \sin{(\omega t + \frac{\pi}{2})} = U_m \cdot \cos{\omega t}$$
 
-![graf civka](image-7.png)
+![graf civka](image-7.jpg)
 
 - Proud se zpožďuje v důsledku vlastní indukce cívky o $\frac{1}{4}T$
 
