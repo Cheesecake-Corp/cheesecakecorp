@@ -123,6 +123,9 @@ export default defineConfig({
         {text: '<- Biologie', link: '/biologie/biologie'},
         {text: 'Endokrinní žlázy', link: '/biologie/endo_zlazy/intro'},
         {text: 'Hypofýza', link: '/biologie/endo_zlazy/hypofyza'},
+        {text: 'Nadledvinky', link: '/biologie/endo_zlazy/nadledvinky'},
+        {text: 'Slinivka břišní', link: '/biologie/endo_zlazy/pankreas'},
+        {text: 'Pohlavní žlázy', link: '/biologie/endo_zlazy/pohlavni_zlazy'},
       ],
       '/geography/': [
         {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'}
