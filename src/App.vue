@@ -11,7 +11,7 @@ import cookieclicker from './components/cookieclicker.vue'
     <div class="wrapper">
       <HelloWorld msg="Cheesecakecorp is up!" />
       <cookieclicker/>
-      <a href="/docs">Docs</a>
+      <a href="/docs" class="ehm">Docs</a>
     </div>
   </header>
 
@@ -21,6 +21,18 @@ import cookieclicker from './components/cookieclicker.vue'
 <style scoped>
 header {
   line-height: 1.5;
+}
+.ehm{
+  width: 50vw;
+  height: 50vh;
+}
+  
+.ehm:hovered{
+  width: 50vw;
+  height: 50vh;
+  background-image: url("cheesecakecorp.org/IMG_0370.png");
+  
+
 }
 
 .logo {
