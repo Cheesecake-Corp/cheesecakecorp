@@ -1,0 +1,1 @@
+# Sériový RLC obvod AC

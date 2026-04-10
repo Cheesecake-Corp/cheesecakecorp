@@ -84,6 +84,7 @@ export default defineConfig({
           items: [
             { text: 'Obvody AC s rezistorem', link: '/physics/ac/circuits/circuit_basics'},
             { text: 'Obvody AC s indukčností a kapacitou', link: '/physics/ac/circuits/circuit_L_and_C'},
+            { text: 'Sériový RLC obvod AC', link: '/physics/ac/circuits/circuit_RLC'},
           ]
         },
       ],

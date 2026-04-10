@@ -12,7 +12,7 @@ $$u(t) = U_m \cdot \sin{(\omega t + \frac{\pi}{2})} = U_m \cdot \cos{\omega t}$$
 - Proud se zpožďuje v důsledku vlastní indukce cívky o $\frac{1}{4}T$
 
 ::: tip Induktance
-Zavedeme veličinu: 
+Zavedeme veličinu:
 $X_L = \frac{U}{I} = \frac{U_m}{I_m}$ odpovídající odporu
 
 $[X_L] = \Omega$
@@ -42,7 +42,7 @@ $$u(t) = U_m \cdot \sin{(\omega t - \frac{\pi}{2})} = -U_m \cdot \cos{\omega t}$
 - Napětí se zpožďuje za proudem o $\frac{1}{4}T$ (nabití desek a vytvoření el. pole kapacitoru)
 
 ::: tip Kapacitance
-Zavedeme veličinu: 
+Zavedeme veličinu:
 $X_C = \frac{U}{I} = \frac{U_m}{I_m}$ odpovídající odporu
 
 $[X_C] = \Omega$
