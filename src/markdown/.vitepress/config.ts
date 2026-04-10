@@ -135,6 +135,7 @@ export default defineConfig({
         {text: '<-- Biologie', link: '/biologie/biologie'},
         {text: '<- Endokrinní žlázy', link: '/biologie/endo_zlazy/intro'},
         {text: 'Nervová soustava', link: '/biologie/ns/intro'},
+        {text: 'Neuron', link: '/biologie/ns/neuron'},
       ],
       '/geography/': [
         {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'}
