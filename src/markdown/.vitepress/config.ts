@@ -102,6 +102,7 @@ export default defineConfig({
         {text: 'Vylučovací soustava', link: '/biologie/vylucovaci_soustava/intro'},
         {text: 'Kůže', link: '/biologie/kuze/kuze'},
         {text: 'Endokrinní žlázy', link: '/biologie/endo_zlazy/intro'},
+        {text: 'Nervová soustava', link: '/biologie/ns/intro'},
       ],
       '/biologie/vylucovaci_soustava/': [
         {text: '<- Biologie', link: '/biologie/biologie'},
@@ -114,18 +115,26 @@ export default defineConfig({
         {text: 'Kůže ->', link: '/biologie/kuze/kuze'}, 
       ],
       '/biologie/kuze/': [
-        {text: '<- Biologie', link: '/biologie/biologie'},
+        {text: '<-- Biologie', link: '/biologie/biologie'},
+        {text: '<- Vylučovací soustava', link: '/biologie/vylucovaci_soustava/intro'},
         {text: 'Kůže', link: '/biologie/kuze/kuze'},
         {text: 'Tělesná teplota', link: '/biologie/kuze/telesna_teplota'},
         {text: 'Endokrinní žlázy ->', link: '/biologie/endo_zlazy/intro'},
       ],
       '/biologie/endo_zlazy/': [
-        {text: '<- Biologie', link: '/biologie/biologie'},
+        {text: '<-- Biologie', link: '/biologie/biologie'},
+        {text: '<- Kůže', link: '/biologie/kuze/kuze'},
         {text: 'Endokrinní žlázy', link: '/biologie/endo_zlazy/intro'},
         {text: 'Hypofýza', link: '/biologie/endo_zlazy/hypofyza'},
         {text: 'Nadledvinky', link: '/biologie/endo_zlazy/nadledvinky'},
         {text: 'Slinivka břišní', link: '/biologie/endo_zlazy/pankreas'},
         {text: 'Pohlavní žlázy', link: '/biologie/endo_zlazy/pohlavni_zlazy'},
+        {text: 'Nervová soustava ->', link: '/biologie/ns/intro'},
+      ],
+      '/biologie/ns/': [
+        {text: '<-- Biologie', link: '/biologie/biologie'},
+        {text: '<- Endokrinní žlázy', link: '/biologie/endo_zlazy/intro'},
+        {text: 'Nervová soustava', link: '/biologie/ns/intro'},
       ],
       '/geography/': [
         {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'}
