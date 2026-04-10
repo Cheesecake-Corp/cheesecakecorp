@@ -8,7 +8,7 @@ fázor
 $$i(t) = I_m \cdot \sin{\omega t}$$
 $$ \vec{U} = \vec{U_R}+\vec{U_L}+\vec{U_C}$$
 $$U^2 = U_R^2+|U_L-U_C|^2$$
-$$\tg{\varphi}=\frac{U_L-U_C}{U_R}$$
+$$\tan{\varphi}=\frac{U_L-U_C}{U_R}$$
 
 $\varphi = \frac{\pi}{2}$ -> ideální cívka
 $\varphi = -\frac{\pi}{2}$ -> ideální kondenzátor
