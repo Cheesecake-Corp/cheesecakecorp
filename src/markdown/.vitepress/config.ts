@@ -139,8 +139,8 @@ export default defineConfig({
         {text: 'Neuron', link: '/biologie/ns/neuron'},
       ],
       '/geography/': [
-        {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'}
-        {text: 'Test Rusko + Evropa', link: '/geography/test_ruevr'}
+        {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'},
+        {text: 'Test Rusko + Evropa', link: '/geography/test_ruevr'},
       ],
       '/geography/test_9_3_26/': [
         {text: 'JZ Asie', link: '/geography/test_9_3_26/jz_asie'},
