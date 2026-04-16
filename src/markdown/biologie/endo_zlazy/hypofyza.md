@@ -11,6 +11,10 @@
 
 ## Adenohypofýza
 
+- řízena z hypothalamu prostřednictvím hormonů
+  - liberiny - podporují
+  - statiny - nepodporují
+
 ### Somatotropin (STH, růstový hormon)
 
 - stimuluje syntézu bílkovin a růst dlouhých kostí (STH působí prostřednictvím jaterního hormonu *somatomedinu - tkáňový hormon*)
@@ -44,3 +48,17 @@
 
 - stimuluje ovulaci a růst žlutého tělíska
 - u podporuje tvorbu pohlavních hormonů (u žen estrogen, progesteron; u mužů testosteron)
+
+## Neurohypofýza
+
+- tvoří se v neurosekrečních buňkách hypothalamu a do neurohypofýzy se dostávají cytoplazmou nervových vláken
+- v neurohypofýze se hromadí a přechází do krve
+
+### Vasopresin
+
+- antidiuretický hormon - proti močení
+
+### Oxytocin
+
+- stahy děložního svlstva při porodu
+- stahy mlékovodů
