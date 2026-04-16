@@ -11,9 +11,12 @@
 
 ## Středověcí básníci
 
-- Li Po (8. stol. n. l.)
-  - pijácké básně
-- Tu Fu (8. stol. n. l.)
-  - jeho básně vycházejí z Konfuciovy filozofie
-  - vyjadřují odpor k válce
-  - prosazují lásku k bližnímu a skromnost
+### Li Po (8. stol. n. l.)
+
+- pijácké básně
+
+### Tu Fu (8. stol. n. l.)
+
+- jeho básně vycházejí z Konfuciovy filozofie
+- vyjadřují odpor k válce
+- prosazují lásku k bližnímu a skromnost
