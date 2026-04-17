@@ -11,6 +11,6 @@ $P = U\cdot I$ - zdánlivý výkon
 
 $$p(t) = u(t) \cdot i(t)$$ 
 
-<iframe src="https://www.desmos.com/calculator/sbbsjzzcr2">
+<iframe src="https://www.desmos.com/calculator/sbbsjzzcr2"><iframe/>
 
 $$P = UI cos \varphi$$
