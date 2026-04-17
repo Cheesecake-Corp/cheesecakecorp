@@ -30,7 +30,7 @@
 - **KMP = klidový membránový potenciál**
   - mezi vnitřkem neuronu a vnějším prostředím je rozdíl elektrického potenciálu -70 mV (el. napětí)
 
-![alt text](image-1.png)
+
 
 ### Iontové kanály na plazmatické membráně
 
