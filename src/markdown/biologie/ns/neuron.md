@@ -30,7 +30,7 @@
 - **KMP = klidový membránový potenciál**
   - mezi vnitřkem neuronu a vnějším prostředím je rozdíl elektrického potenciálu -70 mV (el. napětí)
 
-image here
+![alt text](image-1.png)
 
 ### Iontové kanály na plazmatické membráně
 
@@ -77,3 +77,19 @@ Při stimulaci nervu se $Na^+$ dostávají dovnitř neuronu přes sodíkové pum
 - po axonu přichází signál v podobě AP (elektický signál) a přenáší se na další neuron v podobě chemického signálu
 - z nervového zakončení se vyleje mediátor (acetylcholin, noradrenalin) = neurotransmiter do synaptické štěrbiny -> podráždí se receptory postsynaptické membrány jiného neuronu -> deoplarizace membrány a vznik synaptického potenciálu (SP) - chemický singnál se přeměnil zpět na elektrický
 - SP se šíří  do oblasti iniciálního segmentu -> **vznik AP**
+
+### Synaptické potenciály
+
+#### 1. Excitační (budivý) SP
+
+- neurotransmiter: adrenalin, noradrenalin
+- vedou ke vzniku SP a následně AP
+
+#### 2. Inhibiční (tlumivý) SP
+
+- neurotransmiter: kyselina gama-aminomáselná (GABA)
+- vedou k hyperpolarizaci = změna membránového potenciálu k více negativním hodnotám (aý -90 mV) -> inhibice (útlum) NS
+
+### Integrace nervových signálů
+
+- **Synaptické potenciály** se na vstupní membráně mohou sčítat a odčítat -> může se měnit povaha přenášené informace
