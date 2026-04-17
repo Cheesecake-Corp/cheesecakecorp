@@ -93,3 +93,23 @@ Při stimulaci nervu se $Na^+$ dostávají dovnitř neuronu přes sodíkové pum
 ### Integrace nervových signálů
 
 - **Synaptické potenciály** se na vstupní membráně mohou sčítat a odčítat -> může se měnit povaha přenášené informace
+
+## Typy neuronů
+
+### Senzorické (smyslové)
+
+= aferetní (dostředivé)
+
+- vedou signál ze smyslových orgánů do CNS
+
+### Motorické (hybné)
+
+= eferentní (odstředivé)
+
+- vedou signál z CNS do výkonných orgánů
+
+### Interneurony
+
+= neurony uloženy v CNS
+
+-> neurony se shlukují do nervových vláken = nervů
