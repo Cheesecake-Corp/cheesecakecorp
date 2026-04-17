@@ -44,9 +44,11 @@ image here
 ### Vznik a šíření signálu
 
 #### 1. Membrána polarizovaná
+
 při KMP - membrána **polarizovaná**
 
 #### 2. Depolarizace membrány
+
 Při stimulaci nervu se $Na^+$ dostávají dovnitř neuronu přes sodíkové pumpy (enzymatický systém) -> vychýlí se membránový potenciál -> **depolarizace membrány** (+30 mV) - vznikají nervové signály = synaptické a akční potenciály
 
 - **Synaptické potenciály** - vznikají na dendritech a tělech neuronů
@@ -64,7 +66,7 @@ Při stimulaci nervu se $Na^+$ dostávají dovnitř neuronu přes sodíkové pum
 
 - másto spojení 2 neuronů nebo neuronu a cílové buňky, kde dochází k předání signálu
 
-#### Stavba
+#### Stavba synapse
 
 - presynaptická membrána - na nervovém zakončení prvního neuronu
 - postsynaptický membrána - na dendritech a těle druhého neuronu
@@ -74,4 +76,4 @@ Při stimulaci nervu se $Na^+$ dostávají dovnitř neuronu přes sodíkové pum
 
 - po axonu přichází signál v podobě AP (elektický signál) a přenáší se na další neuron v podobě chemického signálu
 - z nervového zakončení se vyleje mediátor (acetylcholin, noradrenalin) = neurotransmiter do synaptické štěrbiny -> podráždí se receptory postsynaptické membrány jiného neuronu -> deoplarizace membrány a vznik synaptického potenciálu (SP) - chemický singnál se přeměnil zpět na elektrický
-- SP se šíří  do oblasti iniciálního segmentu -> vznik AP
+- SP se šíří  do oblasti iniciálního segmentu -> **vznik AP**
