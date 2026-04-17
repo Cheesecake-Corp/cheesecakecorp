@@ -38,7 +38,7 @@ $X_L-X_C$ je reaktance
 :::
 
 $$X_L = X_C$$
-$$\omega \cdot L = \frac{1}{\omega \cdot L}$$
+$$\omega \cdot L = \frac{1}{\omega \cdot C}$$
 $$\omega^2=\frac{1}{\sqrt{L \cdot C}}$$
 
 ::: tip Thomsonův vztah
