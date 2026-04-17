@@ -3,7 +3,7 @@
 ## Štítná žláza
 
 - kolem hrtanu
-- největší endokrynní žláza
+- největší endokrinní žláza
 - ze 2 laloků - po stranách štítné chrupavky hrtanu
 - ovlivňovány tyrotropinem
 - ovlivňuje mentální a tělesný vývin, rychlost metabolismu

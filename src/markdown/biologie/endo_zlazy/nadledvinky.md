@@ -10,7 +10,7 @@
 
 #### a. glukokortikoidy — kortizol
 
-- udržuje hladinu glukózy v kravi
+- udržuje hladinu glukózy v krvi
 - vyplavují se do krve při psychické zátěži (stres), popáleninách, operacích
 - kortikoidy mají příznivý účinek při léčbě kloubů (revmatoidní artritida); ve vyšších dávkách imunosupresivní účinek (transplantace, alergie)
 

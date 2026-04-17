@@ -1,4 +1,4 @@
-# Prouchy štítné žlázy
+# Poruchy štítné žlázy
 
 ## Hypertyreóza
 
