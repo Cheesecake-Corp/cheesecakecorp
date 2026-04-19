@@ -13,4 +13,4 @@ $$p(t) = u(t) \cdot i(t)$$
 
 <iframe src="https://www.desmos.com/calculator/wqsazbheqf" width="800px" height="600px"></iframe>
 
-$$P = UI cos \varphi$$
+$P = U \cdot I \cdot \cos \varphi$ - činný výkon
