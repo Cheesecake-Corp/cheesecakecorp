@@ -88,6 +88,7 @@ export default defineConfig({
             { text: 'Výkon ve složeném RLC obvodu', link: '/physics/ac/circuits/RLC_perf'},
           ]
         },
+        {text: 'Usměrňovač střídavého proudu', link: '/physics/ac/usmer_AC'},
       ],
       '/czech/starovek/rim/': [
         {text: '<-- Antická literatra', link: '/czech/starovek/anticka_literatura'},
