@@ -89,6 +89,11 @@ export default defineConfig({
           ]
         },
         {text: 'Usměrňovač AC', link: '/physics/ac/usmer_AC'},
+        {text: 'Střídavý proudv energetice', link: '/physics/ac/eenergetics/energy', 
+          items: [
+
+          ]
+        },
       ],
       '/czech/starovek/rim/': [
         {text: '<-- Antická literatra', link: '/czech/starovek/anticka_literatura'},
