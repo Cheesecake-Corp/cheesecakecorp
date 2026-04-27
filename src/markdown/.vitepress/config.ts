@@ -89,9 +89,9 @@ export default defineConfig({
           ]
         },
         {text: 'Usměrňovač AC', link: '/physics/ac/usmer_AC'},
-        {text: 'Střídavý proudv energetice', link: '/physics/ac/energetics/energy', 
+        {text: 'Střídavý proud v energetice', link: '/physics/ac/energetics/energy', 
           items: [
-
+            { text: 'Třífázová soustava AC', link: '/physics/ac/enegetics/tfs_AC' },
           ]
         },
       ],
