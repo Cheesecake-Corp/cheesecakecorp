@@ -24,6 +24,6 @@ $$U_2 \sim N_2$$
 
 $$ \frac{U_2}{U_1} = \frac{N_2}{N_1} = k$$
 
-rovnice transformátoru, k - transformační poměr<br/>
+rovnice transformátoru, $k$ - transformační poměr<br/>
 $k > 1$ -> transformace nahoru </br>
 $k < 1$ -> transformaace dolu
