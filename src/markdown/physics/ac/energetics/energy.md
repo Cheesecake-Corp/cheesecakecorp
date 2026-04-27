@@ -26,5 +26,3 @@ $$U_m = \sqrt{2} \cdot U \doteq 325 \, V$$
 $$\vec{U_{23}} = \vec{U_2} + \vec{U_3}$$
 $$|\vec{U_{1}}| = |\vec{U_{23s}}|$$
 $$\vec{U_{1}} + \vec{U_{23}} = \vec{0}$$
-
-
