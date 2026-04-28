@@ -94,6 +94,7 @@ export default defineConfig({
             { text: 'Generátory', link: '/physics/ac/energetics/energy' },
             { text: 'Třífázová soustava', link: '/physics/ac/energetics/ts_AC' },
             { text: 'Transformátor', link: '/physics/ac/energetics/tfs_AC' },
+            { text: 'Rozvod elektrické energie', link: '/physics/ac/energetics/rozvod' },
           ]
         },
       ],
