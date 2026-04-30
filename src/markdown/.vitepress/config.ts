@@ -27,6 +27,19 @@ export default defineConfig({
                 { text: 'Římská literatura', link: '/czech/starovek/rim/rim' }
               ] 
             },
+            { text: 'Próza 1. poloviny 20. stol.',
+              items: [
+                { text: 'Francouzská', link: '/czech/proza1pol20stol/francie'},
+                { text: 'Česká', 
+                  items: [
+                    {
+                      text: 'Obraz 1. světové války', 
+                      link: '/czech/proza1pol20stol/cs/obraz1svv'
+                    }
+                  ]
+                }
+              ] 
+            },
           ]
         }
       ],
