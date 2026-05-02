@@ -1,0 +1,33 @@
+@media print {
+  /* Skryje navigaci (horní lištu), sidebar a pravý panel (obsah stránky) */
+  .VPNav, 
+  .VPSidebar, 
+  .VPDocAside, 
+  .VPFooter,
+  .VPLocalNav {
+    display: none !important;
+  }
+
+  /* Zruší omezení šířky a paddingy pro hlavní obsah */
+  .VPContent {
+    padding: 0 !important;
+    width: 100% !important;
+    margin: 0 !important;
+  }
+
+  .VPDoc {
+    padding: 0 !important;
+  }
+
+  /* Zajistí, aby se text roztáhl na celou šířku papíru */
+  .container {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+  }
+
+  /* Volitelné: Skryje editační odkazy a info o poslední aktualizaci */
+  .VPDocFooter {
+    display: none !important;
+  }
+}
