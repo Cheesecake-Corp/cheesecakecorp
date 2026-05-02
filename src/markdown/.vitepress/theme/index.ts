@@ -1,4 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
+import './style.css'
 import { h, watch } from 'vue'
 import { useRoute } from 'vitepress'
 import Giscus from '@giscus/vue'
