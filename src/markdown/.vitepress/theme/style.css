@@ -32,21 +32,5 @@
   }
 
   /* Skryje nepoužívané komentáře */
-  .giscus,
-  .giscus-container,
-  [class^="gsc-"],
-  iframe[src*="giscus"] {
-    display: none !important;
-    visibility: hidden !important;
-    height: 0 !important;
-    overflow: hidden !important;
-    position: absolute !important; /* Vytlačí prvek mimo tiskovou plochu */
-    top: -9999px !important;
-  }
 
-  /* 2. Pokud používáte 'doc-after' slot, zkusíme skrýt celý tento slot */
-  .VPDoc > .container > div:last-child {
-     /* Pokud je giscus poslední věc v kontejneru, toto ho "sestřelí" */
-     display: none !important;
-  }
 }
