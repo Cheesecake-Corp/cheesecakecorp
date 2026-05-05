@@ -30,4 +30,9 @@
   .VPDocFooter {
     display: none !important;
   }
+
+  /* Skryje nepoužívané komentáře */
+  .gsc-main {
+    display: none !important;
+  }
 }
