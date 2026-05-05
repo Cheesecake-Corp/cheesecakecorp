@@ -4,7 +4,7 @@
 
 - spisovatel - představitel realismu
 - nositel Nobelovy ceny za literaturu
-- inspirace pro jeho tvorbu: prostředí a krajina okolo jeho rodného městečka salinas v Kalifornii
+- inspirace pro jeho tvorbu: prostředí a krajina okolo jeho rodného městečka Salinas v Kalifornii
 
 ### Hrozny hněvu
 
@@ -17,11 +17,11 @@
 - novela
 - příběh 2 námezdních dělníků ve 30. letech 20. století - jejich nekonečné putování za prací
 
-## Ztacená generace
+## Ztracená generace
 
 - autoři, kteří bojovali v 1. sv. válce - po jejích skončení těžce hledali své uplatnění s začlenění do společnosti
 
-### Franci Scott Fitzgerald
+### Francis Scott Fitzgerald
 
 - 1896-1940
 - spisovatel a scénárista v Hollywoodu
@@ -43,7 +43,7 @@
 - 1899 - 1961
 - novinář a spisovatel
 - nositel Nobelovy ceny za literaturu
-- jeho student - dobrovolín odečel bojovat za svobodu a demokracii do 1. sv. v.
+- jeho student - dobrovolník odešel bojovat za svobodu a demokracii do 1. sv. v.
   - bojoval na italské frontě - byl zde zraněn
 - po 2. sv. válce žil střídavě v USA a na Kubě
 - dosti holdoval alkoholu
