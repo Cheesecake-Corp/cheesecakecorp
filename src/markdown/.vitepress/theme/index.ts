@@ -12,8 +12,10 @@ export default {
   },
   Layout() {
     const route = useRoute()
+    const isPrint = typeof window !== 'undefined' && window.matchMedia('print').matches
     return h(DefaultTheme.Layout, null, {
       'doc-after': () =>
+        !isPrint &&
         h(Giscus, {
           key : route.path,
           repo: 'Cheesecake-Corp/cheesecakecorp',
