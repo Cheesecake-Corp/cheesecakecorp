@@ -32,7 +32,7 @@
   }
 
   /* Skryje nepoužívané komentáře */
-  .iframe.giscus-frame {
+  iframe.giscus-frame {
     display: none !important;
   }
 }

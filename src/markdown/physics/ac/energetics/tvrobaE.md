@@ -18,3 +18,30 @@
   - Dukovany (2040 MW)
 - výhody - stabilní výroba, nízké emise
 - nevýhody - vysoké náklady, jaderný odpad
+
+### Obnovitelné zdroje
+
+- vodní elektrárny (2100 MW)
+- solární elektrárny (4430 MW)
+- větrné elektrárny (370 MW)
+- biomasa
+- výhody - ekologické
+- nevýhody - závislost na počasí a umírání zvířat/rostlin
+
+### Distribuce
+
+- hladiny napětí:
+  - 400kV (hlavní přenos)
+  - 220 kv (přenos)
+  - 110 kV (regionální)
+  - 230 V (domácnosti)
+- Přenosová soustava - velké vzdálenosti
+- Distribuční síť: k lidem
+- Provozovatel: ČEPS
+
+### Budoucnost
+
+- více obnovitelných zdrojů
+- rozvoj jádra - fúzní reaktorf
+- úspory energie
+- moderní technologie
