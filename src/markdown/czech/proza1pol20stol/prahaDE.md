@@ -9,6 +9,7 @@
 - značnou část svého díla věnoval Praze
 
 ### Pražský pitaval
+
 ### Americký ráj
 
 - kniha reportáží
