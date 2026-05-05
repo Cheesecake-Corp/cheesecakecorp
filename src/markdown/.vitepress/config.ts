@@ -30,6 +30,10 @@ export default defineConfig({
             { text: 'Próza 1. poloviny 20. stol.',
               items: [
                 { text: 'Francouzská', link: '/czech/proza1pol20stol/francie'},
+                { text: 'Anglická', link: '/czech/proza1pol20stol/anglie'},
+                { text: 'USA', link: '/czech/proza1pol20stol/usa'},
+                { text: 'Německá', link: '/czech/proza1pol20stol/nemecko'},
+                { text: 'Pražská německá', link: '/czech/proza1pol20stol/prahaDE'},
                 { text: 'Česká', 
                   items: [
                     {
