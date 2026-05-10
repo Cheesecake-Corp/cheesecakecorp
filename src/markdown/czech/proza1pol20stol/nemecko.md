@@ -55,6 +55,6 @@
 
 - traumata emigrantů
 
-### Jiskra života, Čas žít, Čas umírat
+### Jiskra života; Čas žít, čas umírat
 
 - 2\. sv. válka, hrůzy koncentračních táborů
