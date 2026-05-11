@@ -42,7 +42,7 @@
 ### Na západní frontě klid
 
 - 1929
-- motto knihy: "pokus podat zprávu generaci, která byla zničena válkou - i když unikla jejím granátům"
+- motto knihy: "pokus podat zprávu o generaci, která byla zničena válkou - i když unikla jejím granátům"
 - zachyceny autorovy zážitky z války - vypravěčem Pavel Baumer (vypravování je v 1. os. jednotného i množného čísla)
 - absurdita vzájemného zabíjení mladých lidí
 - závěr díla: hlavní hrdina umírá - podle vojenského hlášení byl "na západní frontě klid"
