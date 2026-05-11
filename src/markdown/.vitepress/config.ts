@@ -39,6 +39,10 @@ export default defineConfig({
                     {
                       text: 'Obraz 1. světové války', 
                       link: '/czech/proza1pol20stol/cs/obraz1svv'
+                    },
+                    {
+                      text: 'Legionářská literatura',
+                      link: '/czech/proza1pol20stol/cs/legion'
                     }
                   ]
                 }
