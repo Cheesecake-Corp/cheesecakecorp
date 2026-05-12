@@ -1,1 +1,30 @@
 # Elektromagnetický oscilátor
+
+$$ u(t) = U_m \cdot \sin{\omega t + \varphi} $$
+$$ i(t) = I_m \cdot \sin{\omega t} $$
+
+Jednoduchý oscilační obvod:
+
+![Jednoduchý oscilační obvod](image.png)
+
+![V2](image-3.png)
+
+$$Q = C \cdot U$$
+
+- kondenzátor nabijeme
+
+<iframe src="https://www.desmos.com/calculator/xfu3tc8xz4" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+$$\Delta \varphi = \frac{T}{4}$$
+
+$R$ -> 0: Dochází k periodické přeměně energie elektrického pole (kondenzátor) na energii mg. pole (cívka) a naopak - **ELEKTROMAGNETICKÝ OSCILÁTOR**
+
+|Mech|El-mag|
+|------|--------|
+|$E_K$|$E_M$|
+|$E_p$|$E_e$|
+|okamžitá výchylka $y$|náboj: $q$|
+|síla: $F$|napětí: $u(t)$|
+|rychlost: $v$|proud: $i(t)$|
+|hmotnost: $m$|indukčnost: $L$|
+|tuhost: $k = \frac{F}{y}$|převrácená kapacita: $\frac{1}{C}=\frac{u}{q}$|
