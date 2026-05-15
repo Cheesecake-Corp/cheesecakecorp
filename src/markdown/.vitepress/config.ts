@@ -73,12 +73,15 @@ export default defineConfig({
             {
               text: 'Nestacionární',
               link: '/physics/magnetic_field/nonstationary/magnetic_induction'
-            },
-            {
-              text: 'Střídavý proud',
-              link: '/physics/ac/creation.md'
             }
           ]
+        },
+        {
+          text: 'Střídavý proud',
+          link: '/physics/ac/creation.md'
+        },
+        {
+          text: 'Elektromagnetické kmitání a vlnění', link: '/physics/em_/em_oscilator.md'
         }
       ],
       '/physics/magnetic_field/nonstationary/': [

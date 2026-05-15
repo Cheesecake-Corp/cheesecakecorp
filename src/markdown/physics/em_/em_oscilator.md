@@ -28,3 +28,24 @@ $R$ -> 0: Dochází k periodické přeměně energie elektrického pole (kondenz
 |rychlost: $v$|proud: $i(t)$|
 |hmotnost: $m$|indukčnost: $L$|
 |tuhost: $k = \frac{F}{y}$|převrácená kapacita: $\frac{1}{C}=\frac{u}{q}$|
+
+## Parametry oscilátoru
+
+- $R$ -> 0 -> volné kmitání
+- $ u(t) = $
+- $ i(t) = $
+
+::: details Odvození
+
+$$ X_C = \frac{1}{\omega \cdot C} $$
+$$ X_L = \omega \cdot L $$
+$$ U_C = U_L $$
+$$ I \cdot X_C = I \cdot X_L$$
+$$ \omega_0 = \sqrt{L \cdot C} $$
+
+-> vlastní kruhová frekvence kmitání
+
+$$ T_0 = 2 \pi \sqrt{L \cdot C} $$
+<center>Thomsonův vztah pro vlastní periodu kmitání el. mag. oscilátoru</center>
+
+:::
