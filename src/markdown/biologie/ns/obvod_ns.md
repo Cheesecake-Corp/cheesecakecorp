@@ -33,3 +33,14 @@
 
 - nervová vlákna vedou signály z mozkové kůry k motorickým neuronům v míše bez přerušení
 - z levé a pravé hemisféry vychází vlákna, která se kříží v oblasti prodloužené míchy a prochází dál do páteřní míchy
+- přes přední laloky míchy k motorickým neuronům
+- převádí signály pro jemné, volní, vědomé pohyby
+
+## Extrapyramidové - nepřímé dráhy
+
+- ostatní sestupné motorické dráhy = mimopyramidové
+- tvoeřna více neurony
+- dochází k přepojení v bazálních gangliích a nižších center v mozku
+- končí opět v míše, kde jsou přepojeny na motorické neurony
+- podílejí se na udržování sval. napětí, rovnováhy těla, ovládají automatické a poloautomatické pohyby (chůze, plavání, tanec, ...)
+- v důsledku křížení nervových drah - poškožení (mozkvé mrtvici) v jedné části mozku se projeví poruchou hybnosti na straně opačné
