@@ -175,6 +175,7 @@ export default defineConfig({
         {text: 'Nervová soustava', link: '/biologie/ns/intro'},
         {text: 'Neuron', link: '/biologie/ns/neuron'},
         {text: 'Mícha', link: '/biologie/ns/micha'},
+        {text: 'Koncový mozek', link: '/biologie/ns/telencephalon'},
       ],
       '/geography/': [
         {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'},
