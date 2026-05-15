@@ -32,8 +32,8 @@ $R$ -> 0: Dochází k periodické přeměně energie elektrického pole (kondenz
 ## Parametry oscilátoru
 
 - $R$ -> 0 -> volné kmitání
-- $u(t) = $
-- $i(t) = $
+- $u(t) = U_m \cdot \cos{\omega t}$
+- $i(t) = I_m \cdot \cos{(\omega t - \frac{\pi}{2})} = I_m \cdot \sin{\omega t}$
 
 ::: details Odvození
 
@@ -47,7 +47,10 @@ $$ \omega_0 = \frac{1}{\sqrt{L \cdot C}} $$
 
 :::
 
+::: tip Thomsonův vztah pro vlastní periodu kmitání el. mag. oscilátoru
+
 $$ T_0 = 2 \pi \sqrt{L \cdot C} $$
-<center>Thomsonův vztah pro vlastní periodu kmitání el. mag. oscilátoru</center>
+
+:::
 
 - každé elektromagnetické kmitání je vždy tlumené, protože $R$ je nenulový + přeměny energie
