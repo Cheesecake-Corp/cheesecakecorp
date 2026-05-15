@@ -54,3 +54,18 @@ $$ T_0 = 2 \pi \sqrt{L \cdot C} $$
 :::
 
 - každé elektromagnetické kmitání je vždy tlumené, protože $R$ je nenulový + přeměny energie
+
+$R$ -> $\infty$ - přetlumeno - ke kmitání nedojde
+
+![zapojení s generátorem](image-4.png)
+
+$$u(t) = U_{mG} \cdot \sin{(\omega_G \cdot t)}$$
+
+- v případě připojení generátoru oscilátor kmitá s frekvencí generátoru
+  - nucené kmitání
+
+![GRAPHH](image-6.png)
+
+- $\omega _G \rightarrow \omega _0$ -> stav rezonance LC-obvodu
+- malá energie generátoru způsobí velkou amplitudu výchylky
+- změnou kapacity kondenzátoru měníme frekvenci toho generátoru a tedy oscilačního obvodu
