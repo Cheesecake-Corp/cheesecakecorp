@@ -53,9 +53,15 @@
 
 ## Limbický systém
 
+![limbický systém](image-2.jpeg)
+
 - vývojově staré oblasti koncového mozku - nervovými drahami spojeny s mezimozkem
 - instinktivní a emocionální chování
 - formování dlouhodobé paměti
 - zpracování čichových informací
 - uvědomování si pocitů příjemnosti a nepříjemnosti
 - řízení sexuálního chování
+
+## EEG (elektroencefalogram)
+
+- zaznamenává činnost mozku
