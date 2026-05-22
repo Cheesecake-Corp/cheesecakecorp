@@ -43,6 +43,10 @@ export default defineConfig({
                     {
                       text: 'Legionářská literatura',
                       link: '/czech/proza1pol20stol/cs/legion'
+                    },
+                    {
+                      text: 'Alios Jirásek',
+                      link: '/czech/proza1pol20stol/cs/alois'
                     }
                   ]
                 }
