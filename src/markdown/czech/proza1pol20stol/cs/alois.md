@@ -54,7 +54,7 @@
 
 #### 1. Husitství
 
-- Jan Hus, Jan Žižka, Jan Boháč z Dutě
+- Jan Hus, Jan Žižka, Jan Roháč z Dubé (dle Vojty T. - Jan Boháč z Dutě)
 
 #### 2. Doba pobělohorská + pohádkové motivy
 
