@@ -128,6 +128,7 @@ export default defineConfig({
       ],
       '/physics/em_/': [
         { text: 'Elektromagnetický oscilátor', link: '/physics/em_/em_oscilator'},
+        { text: 'Elektromagnetické vlnění', link: '/physics/em_/em_wave'},
       ],
       '/czech/starovek/rim/': [
         {text: '<-- Antická literatra', link: '/czech/starovek/anticka_literatura'},
@@ -145,6 +146,7 @@ export default defineConfig({
         {text: 'Kůže', link: '/biologie/kuze/kuze'},
         {text: 'Endokrinní žlázy', link: '/biologie/endo_zlazy/intro'},
         {text: 'Nervová soustava', link: '/biologie/ns/intro'},
+        {text: 'Smyslová soustava', link: '/biologie/ss/smyslova_ustroji'},
       ],
       '/biologie/vylucovaci_soustava/': [
         {text: '<- Biologie', link: '/biologie/biologie'},
@@ -184,6 +186,13 @@ export default defineConfig({
         {text: 'Mícha', link: '/biologie/ns/micha'},
         {text: 'Koncový mozek', link: '/biologie/ns/telencephalon'},
         {text: 'Obvodová NS', link: '/biologie/ns/obvod_ns'},
+        {text: 'Smyslová soustava ->', link: '/biologie/ss/smyslova_ustroji'},
+      ],
+      '/biologie/ss/': [
+        {text: '<-- Biologie', link: '/biologie/biologie'},
+        {text: '<- Nervová soustava', link: '/biologie/ns/intro'},
+        {text: 'Smyslová ústrojí', link: '/biologie/ss/smyslova_ustroji'},
+        {text: 'Zrak', link: '/biologie/ss/zrak'},
       ],
       '/geography/': [
         {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'},
