@@ -7,7 +7,7 @@
 - sliznice víček přechází ve spojivku - ta v bělimu
 - u vnitřního oka ústí - slzní žláza (slzy - ochrana před vysycháním)
 
-![stavba oční bulvy](image.png)
+![stavba boční ulvy](image-6.png)
 
 - bělima (sclera) - vazivový obal - drží tvar oka; vpředu přechází v průhlednou rohovku (cornea)
 - cévnatka (choroidea) - prokrvená - vyživuje oko; vpředu přechází v řasnaté těleso
