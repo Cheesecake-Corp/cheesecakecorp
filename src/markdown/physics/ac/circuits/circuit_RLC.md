@@ -33,7 +33,7 @@ $$Z = \sqrt{R^2+\left(\omega L - \frac{1}{\omega \cdot C}\right)^2}$$
 
 Největší proud (největší energii - Joulovo teplo) získáme je-li $X_L-X_C=0$
 
-::: detail
+::: details Reaktance
 $X_L-X_C$ je reaktance
 :::
 
