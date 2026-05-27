@@ -186,6 +186,7 @@ export default defineConfig({
         {text: 'Mícha', link: '/biologie/ns/micha'},
         {text: 'Koncový mozek', link: '/biologie/ns/telencephalon'},
         {text: 'Obvodová NS', link: '/biologie/ns/obvod_ns'},
+        {text: 'Vegetativní nervový systém', link: '/biologie/ns/veget'},
         {text: 'Smyslová soustava ->', link: '/biologie/ss/smyslova_ustroji'},
       ],
       '/biologie/ss/': [
