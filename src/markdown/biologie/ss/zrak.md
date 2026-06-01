@@ -25,41 +25,41 @@
 
 ![buňky](image-1.png)
 
+### Tyčinky
+
 - tyčinky obsahují rhodopsin = pigment citlivý na světlo
 - po absorbci světla se rhodopsin rozpadá na opsin (bezbarvý protein) a retinal (derivát vit. A) -> vznik AP ve zrakovém nervu
 - pro dostatek rhodopsinu je potřeba dostatek vit. A
 - koncentrace rhodopsinu se zvyšuje ve tmě (adaptace na tmu)
 <br/>
 
-- žlutá skrna - místo nejostřejšího vidění (největší koncentrace čípků)
-- slepá skvrna - místo bez sítnice, vychází zrakový nerv (II. Hlavový)
-- sklivec - rosolovitá hmota
+- **žlutá skrna** - místo nejostřejšího vidění (největší koncentrace čípků)
+- **slepá skvrna** - místo bez sítnice, vychází zrakový nerv (II. Hlavový)
+- **sklivec** - rosolovitá hmota
 
 ---
 
-- akomodace (zaostřování) - změna tvaru čočky
+- **akomodace** (_zaostřování_) - změna tvaru čočky
 - pozorování blízkého předmětu -> se čočka vyklene (ztlušťuje)
 - pozorování vzdáleného předmětu -> čočka se zploští
 - na sítnici se vytváří obraz zmenšený a obrácený
 
 ![akomodace](image-2.png)
 
-
-
 ## Vady
 
-- myopie - krátkozrakost, špatné vidění vzdálených předmětů (obraz před sítnicí -> rozptylky)
-- hypermetropie - dalekozrakost, špatné vidění blízkých předmětů (obraz za sítnicí -> spojky)
+- **myopie** - krátkozrakost, špatné vidění vzdálených předmětů (obraz před sítnicí -> rozptylky)
+- **hypermetropie** - dalekozrakost, špatné vidění blízkých předmětů (obraz za sítnicí -> spojky)
 
 ![krátko a dalekozrakost](image-3.png)
 
-- astigmatismus - špatné zakřivení rohovky
-- heterotropie - šilhání - způsobeno například souhrou okohybných svalů; poruchou koordinace mozkových center řídících pohyblivost očí a zpracování zrakových vjemů
+- **astigmatismus** - špatné zakřivení rohovky
+- **heterotropie** - šilhání - způsobeno například souhrou okohybných svalů; poruchou koordinace mozkových center řídících pohyblivost očí a zpracování zrakových vjemů
 
-- glaukom - zelený zákal, způsobeno zvýšeným nitroočním tlakem
+- **glaukom** - zelený zákal, způsobeno zvýšeným nitroočním tlakem
 
 ![glaukom](image-4.png)
 
-- katarakta - šedý zákal, nižší průhlednost čočky
+- **katarakta** - šedý zákal, nižší průhlednost čočky
 
 ![šedý zákal](image-5.png)
