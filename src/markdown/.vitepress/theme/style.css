@@ -1,3 +1,15 @@
+/* Import kurzívy (Italic) */
+@font-face {
+  font-family: 'Latin Modern Roman';
+  src: url('https://jsdelivr.net') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+i {
+  font-family: 'Latin Modern Roman', 'Computer Modern Roman', Times, serif;
+}
+
 @media print {
   /* Skryje navigaci (horní lištu), sidebar a pravý panel (obsah stránky) */
   .VPNav, 
