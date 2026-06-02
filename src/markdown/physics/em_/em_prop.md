@@ -52,4 +52,4 @@ $$ l = \frac{c \cdot t}{2}$$
 
 - objekt je zobrazen pomocí sférických souřadnic $[l; \varphi; \psi]$
 
-![radar](https://www.geeksforgeeks.org/electrical-engineering/radar/)
+![radar](https://media.geeksforgeeks.org/wp-content/uploads/20240119151904/What-is-Radar-System-1-(1).webp)
