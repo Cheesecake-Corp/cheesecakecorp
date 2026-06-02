@@ -32,4 +32,37 @@ $$u(t) = U_m \cdot \sin{2\pi(\frac{t}{T} - \frac{x}{\lambda})}$$
 
 ![LC obvody dílčí](image-10.png)
 
-![celkový obvod](image-7.png)
+$$\lambda = \frac{c}{f}$$
+$$u(x;t) = U_m \cdot \sin{2 \pi (\frac{t}{T} - \frac{x}{\lambda})}$$
+
+- náboj je podél vedení rozložen nerovnoměrně
+- náboj se pohybuje a podél vodiče vznikají magnetická pole
+- na konci vedení je rezistor -> napětí či proud jsou ve fázi
+- místa s největší intenzitou el. pole a místa s největší indukcí mg. pole jsou stejná
+
+![elmag vlna](image-7.png)
+
+- má dvě neoddělitelné složky - elektrickou $\vec{E}$ a magnetickou $\vec{B}$
+  - ty jsou na sebe kolmé $\vec{E} \perp \vec{B}$ a jsou ve fázi $\Delta \varphi = 0 \, rad$
+
+<br/>
+
+- vedení naprázdno - R -> $\infty$
+  - původní vlna se odráží a skládá se s původní vlnou a vzniká stojaté vlnění
+
+![kmitny a uzly](image-12.png)
+
+## Elektromagnetický dipól
+
+$$\Delta \varphi = \frac{\pi}{2}$$
+
+- složky $\vec{E}$ a $\vec{B}$ jsou posunuty o $\frac{\pi}{2}$
+- přeměna energie el. pole na energii mg. pole
+
+![dipól](image-13.png)
+
+- půlvlný dipól
+- tím lze dostat vlnění z vedení do prostoru
+
+![kubovo diagram](image-14.png)
+![dipol 2](image-15.png)
