@@ -1,4 +1,4 @@
-# Sociální próza
+        # Sociální próza
 
 ## Ivánek Olbrachtojc
 
@@ -12,3 +12,11 @@
 
 - román o politickém zrání služky Anny
 - odehrává se v roce 1920
+
+### 30. léta
+
+- r. 1919 vystoupil z KSČ a odstěhoval se na Podparpatskou Rus do vesnice Koločava
+
+#### Nikola Šuhaj loupežník
+
+- baladický román

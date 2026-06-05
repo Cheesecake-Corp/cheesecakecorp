@@ -45,7 +45,7 @@ export default defineConfig({
                       link: '/czech/proza1pol20stol/cs/legion'
                     },
                     {
-                      text: 'Alios Jirásek',
+                      text: 'Alois Jirásek',
                       link: '/czech/proza1pol20stol/cs/alois'
                     },
                     {
