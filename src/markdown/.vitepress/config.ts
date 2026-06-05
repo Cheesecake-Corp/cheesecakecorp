@@ -195,6 +195,7 @@ export default defineConfig({
         {text: '<- Nervová soustava', link: '/biologie/ns/intro'},
         {text: 'Smyslová ústrojí', link: '/biologie/ss/smyslova_ustroji'},
         {text: 'Zrak', link: '/biologie/ss/zrak'},
+        {text: 'Sluch', link: '/biologie/ss/sluch'},
       ],
       '/geography/': [
         {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'},
