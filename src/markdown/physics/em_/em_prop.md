@@ -42,8 +42,9 @@ $$c = \frac{1}{\sqrt{\varepsilon _0 \cdot \mu _0}}$$
 $$v = \frac{1}{\sqrt{\varepsilon \cdot \mu}} = \frac{1}{\sqrt{\varepsilon _0 \cdot \varepsilon _r \cdot \mu _0 \cdot \mu _r}} = \frac{c}{\sqrt{\varepsilon _r \cdot \mu _r}}$$
 $$ \varepsilon _r \ge 1, \, \mu _r \ge 1$$
 
-$$v = \frac{1}{q} c$$
-$$\lambda = \frac{1}{q} \lambda _0$$
+Voda:
+$$v = \frac{1}{9} c$$
+$$\lambda = \frac{1}{9} \lambda _0$$
 
 ### Radar
 
