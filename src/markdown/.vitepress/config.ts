@@ -200,7 +200,10 @@ export default defineConfig({
         {text: 'Rozmnožovací soustava ->', link: '/biologie/rs/basic'},
       ],
       '/biologie/rs/': [
+        {text: '<-- Biologie', link: '/biologie/biologie'},
+        {text: '<- Smyslová soustava', link: '/biologie/ss/smyslova_ustroji'},
         {text: 'Rozmnožovací soustava', link: '/biologie/rs/basic'},
+        {text: 'Mužské pohlavní orgány', link: '/biologie/rs/m_po'},
       ],
       '/geography/': [
         {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'},
