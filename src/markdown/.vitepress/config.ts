@@ -47,6 +47,10 @@ export default defineConfig({
                     {
                       text: 'Alios Jirásek',
                       link: '/czech/proza1pol20stol/cs/alois'
+                    },
+                    {
+                      text: 'Sociální próza',
+                      link: '/czech/proza1pol20stol/cs/soc_proz'
                     }
                   ]
                 }
