@@ -148,6 +148,7 @@ export default defineConfig({
         {text: 'Endokrinní žlázy', link: '/biologie/endo_zlazy/intro'},
         {text: 'Nervová soustava', link: '/biologie/ns/intro'},
         {text: 'Smyslová soustava', link: '/biologie/ss/smyslova_ustroji'},
+        {text: 'Rozmnožovací soustava', link: '/biologie/rs/basic'},
       ],
       '/biologie/vylucovaci_soustava/': [
         {text: '<- Biologie', link: '/biologie/biologie'},
@@ -196,6 +197,10 @@ export default defineConfig({
         {text: 'Smyslová ústrojí', link: '/biologie/ss/smyslova_ustroji'},
         {text: 'Zrak', link: '/biologie/ss/zrak'},
         {text: 'Sluch', link: '/biologie/ss/sluch'},
+        {text: 'Rozmnožovací soustava ->', link: '/biologie/rs/basic'},
+      ],
+      '/biologie/rs/': [
+        {text: 'Rozmnožovací soustava', link: '/biologie/rs/basic'},
       ],
       '/geography/': [
         {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'},
