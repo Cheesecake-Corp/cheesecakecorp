@@ -134,6 +134,7 @@ export default defineConfig({
         { text: 'Elektromagnetický oscilátor', link: '/physics/em_/em_oscilator'},
         { text: 'Elektromagnetické vlnění', link: '/physics/em_/em_wave'},
         { text: 'Vlastnosti elektromagnetické vlny', link: '/physics/em_/em_prop'},
+        { text: 'Rádiové vlny', link: '/physics/em_/radio_waves'},
       ],
       '/czech/starovek/rim/': [
         {text: '<-- Antická literatra', link: '/czech/starovek/anticka_literatura'},
