@@ -90,7 +90,8 @@ export default defineConfig({
         },
         {
           text: 'Elektromagnetické kmitání a vlnění', link: '/physics/em_/em_oscilator.md'
-        }
+        },
+        { text: 'Světlo', link: '/physics/light/light'}
       ],
       '/physics/magnetic_field/nonstationary/': [
         {
@@ -131,11 +132,16 @@ export default defineConfig({
         },
       ],
       '/physics/em_/': [
+        { text: '<- Fyzika', link: '/physics/physics'},
         { text: 'Elektromagnetický oscilátor', link: '/physics/em_/em_oscilator'},
         { text: 'Elektromagnetické vlnění', link: '/physics/em_/em_wave'},
         { text: 'Vlastnosti elektromagnetické vlny', link: '/physics/em_/em_prop'},
         { text: 'Rádiové vlny', link: '/physics/em_/radio_waves'},
       ],
+      '/physics/light/': [
+        { text: '<- Fyzika', link: '/physics/physics'},
+        { text: 'Světlo', link: '/physics/light/light'},
+      ]
       '/czech/starovek/rim/': [
         {text: '<-- Antická literatra', link: '/czech/starovek/anticka_literatura'},
         {text: '<- Řecká literatura', link: '/czech/starovek/recko/recko'},
