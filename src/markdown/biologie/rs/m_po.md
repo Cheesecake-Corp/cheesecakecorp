@@ -57,3 +57,7 @@
   - reflex řízen z bederní míchy
 - kolem zevního ústí močové trubice - žalud
 - penis v oblasti žaludu kryt předkožkou
+
+---
+
+![Diagram](image-6.png)

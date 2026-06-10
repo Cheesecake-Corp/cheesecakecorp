@@ -141,7 +141,7 @@ export default defineConfig({
       '/physics/light/': [
         { text: '<- Fyzika', link: '/physics/physics'},
         { text: 'Světlo', link: '/physics/light/light'},
-      ]
+      ],
       '/czech/starovek/rim/': [
         {text: '<-- Antická literatra', link: '/czech/starovek/anticka_literatura'},
         {text: '<- Řecká literatura', link: '/czech/starovek/recko/recko'},
@@ -215,6 +215,7 @@ export default defineConfig({
         {text: '<- Smyslová soustava', link: '/biologie/ss/smyslova_ustroji'},
         {text: 'Rozmnožovací soustava', link: '/biologie/rs/basic'},
         {text: 'Mužské pohlavní orgány', link: '/biologie/rs/m_po'},
+        {text: 'Ženské pohlavní orgány', link: '/biologie/rs/z_po'},
       ],
       '/geography/': [
         {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'},

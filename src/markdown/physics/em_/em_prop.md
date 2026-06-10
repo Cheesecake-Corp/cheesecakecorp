@@ -1,15 +1,17 @@
 # Vlastnosti elektromagnetické vlny
 
-## 1. Má dvě neoddělitelné složky 
-- $\vec{E}$ – elektrickou 
+## 1. Má dvě neoddělitelné složky
+
+- $\vec{E}$ – elektrickou
 - $\vec{B}$ – magnetickou
-<br/>které harmonicky kmitají ve fázi a jsou na sebe kolmé
+
+které harmonicky kmitají ve fázi a jsou na sebe kolmé
 $\vec{E} \perp \vec{B}$, $\vec{E} \perp \vec{c}$, $\vec{B} \perp \vec{c}$ -> příčné vlnění
 
 ## 2. Lineárně polarizované
 
 - el. mag. vlnění je lineárně polarizované
-- vektory $\vec{E}$ a $\vec{B}$ zůstavají ve stejné 
+- vektory $\vec{E}$ a $\vec{B}$ zůstavají ve stejné
   - $\vec{E}$ v rovině dipólu, $\vec{B}$ v rovině kolmé
   
 ![polarizace](image-16.png)
