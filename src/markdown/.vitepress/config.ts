@@ -51,6 +51,10 @@ export default defineConfig({
                     {
                       text: 'Sociální próza',
                       link: '/czech/proza1pol20stol/cs/soc_proz'
+                    },
+                    {
+                      text: 'Avantgarda',
+                      link: '/czech/proza1pol20stol/cs/avantgarda'
                     }
                   ]
                 }
