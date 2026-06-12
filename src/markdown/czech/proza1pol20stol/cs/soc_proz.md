@@ -19,4 +19,4 @@
 
 #### Nikola Šuhaj loupežník
 
-- baladický román
+- baladický román o válečném zběhovi, který je přinucen k loupežím, s pronásledovateli vždy bojuje vítězně, podlehne až když je zrazen svými kamarády, kteří ho zavraždí
