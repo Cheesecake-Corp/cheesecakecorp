@@ -215,7 +215,7 @@ export default defineConfig({
         {text: '<- Smyslová soustava', link: '/biologie/ss/smyslova_ustroji'},
         {text: 'Rozmnožovací soustava', link: '/biologie/rs/basic'},
         {text: 'Mužské pohlavní orgány', link: '/biologie/rs/m_po'},
-        {text: 'Ženské pohlavní orgány', link: '/biologie/rs/z_po'},
+        {text: 'Ženské pohlavní orgány', link: '/biologie/rs/z_po', items: [{ text: 'Ovulační a menstruační cyklus', link: '/biologie/rs/om_cyklus'}]},
       ],
       '/geography/': [
         {text: 'Test 9. 3. 2026', link: '/geography/test_9_3_26/jz_asie'},
