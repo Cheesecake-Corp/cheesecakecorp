@@ -5,7 +5,7 @@
   - děložní sliznice - menstruační
 - oba cykly spolu těsně souvisejí
 
-![Schéma](image-1.png)
+![Schéma](image-3.png)
 
 ## Ovulační cyklus
 
